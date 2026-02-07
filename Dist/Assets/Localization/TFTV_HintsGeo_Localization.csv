@@ -208,7 +208,7 @@ Kisten mit Fraktionswaffen können geplündert werden, doch nur die Ausrüstung 
 Получайте опыт, защищая строения или гражданских лиц, как обычно.
 
 Вы можете разграбить ресурсные ящики с оружием фракции, но унести сможете лишь то, что будет сложено в инвентарь ваших бойцов и машин.",,
-HINT_FIRE_QUENCHER_TITLE,Text,,"Fire Quencher",,Extincteur,FLAMMENLÖSCHER,,,"Живой Огнетушитель",,
+HINT_FIRE_QUENCHER_TITLE,Text,,"Fire Quencher",,Dompteur de flammes,FLAMMENLÖSCHER,,,"Живой Огнетушитель",,
 HINT_FIRE_QUENCHER_TEXT,Text,,"<i>“There was nothing special about this one… Here comes the bisque, I thought… Boy was I wrong.”</i>
 
 Some Arthrons have evolved the ability to instantly quench the fire they come in contact with, replacing it with Mist. They are apparently doing this by spraying some biochemical compound  from their <b>heads</b>. Disabling their heads should remove both their immunity to fire and their ability to quench it.",,"<i>« Il n'avait rien de spécial, celui-là... Et voilà la bisque, que je me suis dit... Eh bien, je me trompais lourdement. »</i>
