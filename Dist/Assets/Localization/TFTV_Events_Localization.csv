@@ -234,7 +234,7 @@ FROM: Nikolai (Synedrion)
 TO: Phoenix Point 
 
 So another dirty little secret from West's not-so-distant past emerges. I hope that your actions in this matter reflect a new found belief in transparency and in the free exchange of information, rather than political opportunism.",,"MESSAGE
-EXPÉDITEUR : Nikolai (Synedrion)
+EXPÉDITEUR : Nikolai (Synédrion)
 DESTINATAIRE : Phoenix
 
 Un autre sale petit secret du passé pas si lointain de West émerge. J’espère que vos actions dans ce domaine reflètent une nouvelle croyance dans la transparence et dans le libre échange d’informations, plutôt que dans l’opportunisme politique.","NACHRICHT
@@ -262,7 +262,7 @@ PROG_PU4_WIN_CHOICE_0_OUTCOME_GENERAL,Text,,"Anu's leadership seeks to distance 
 PROG_PU4_WIN_CHOICE_0_TEXT,Text,,"A righteous purge of dangerous technology",,"Une juste purge de la dangereuse technologie","Notwendige Säuberung gefährlicher Technologien.",,,"Справедливое избавление от опасных технологий",,
 PROG_PU4_WIN_CHOICE_1_OUTCOME_GENERAL,Text,,"Synedrion and New Jericho netizens endlessly debate the raid and Phoenix Project actions. Interestingly, the debate is not drawn strictly across faction lines, with some in New Jericho justifying our raid as a legitimate police action against extraneous rogue elements and some in Synedrion criticizing us for overreach. 
 
-West is naturally upset, but we have gained some traction among Synedrion public opinion and fostered some much needed interaction between the members of both factions.",,"Les net-citoyens de Synedrion et la Nouvelle-Jéricho débattent sans cesse du raid et des actions du projet Phoenix. Il est intéressant de noter que le débat ne traverse pas strictement les lignes de faction, certains à la Nouvelle-Jéricho justifiant notre raid comme une action policière légitime contre des éléments voyous étrangers et d’autres à Synedrion nous critiquant pour excès.
+West is naturally upset, but we have gained some traction among Synedrion public opinion and fostered some much needed interaction between the members of both factions.",,"Les net-citoyens du Synédrion et la Nouvelle-Jéricho débattent sans cesse du raid et des actions du projet Phoenix. Il est intéressant de noter que le débat ne traverse pas strictement les lignes de faction, certains à la Nouvelle-Jéricho justifiant notre raid comme une action policière légitime contre des éléments voyous étrangers et d’autres à Synedrion nous critiquant pour excès.
 
 West est naturellement bouleversé, mais nous avons obtenu un certain succès auprès de l’opinion publique du Synedrion et favorisé une certaine interaction entre les membres des deux factions.","In den Netzen von Synedrion und Neu-Jericho wird der Überfall und das Handeln des Phoenix-Projekts endlos diskutiert. Interessanterweise verläuft die Debatte nicht strikt entlang der Fraktionslinien:
 Einige Stimmen in Neu-Jericho rechtfertigen unseren Einsatz als legitime polizeiliche Maßnahme gegen abtrünnige Elemente, während Teile Synedrions uns Machtmissbrauch vorwerfen.
@@ -351,7 +351,7 @@ Möglicherweise gibt es jedoch auch andere Optionen.",,,"[AircraftName] прол
 Но, могут быть и другие варианты.",,
 PROG_PU12_WIN2_TITLE,Text,,"Just Doing Our Job",,"Faite Juste Notre Travail","Wir machen nur unseren Job",,,"Просто делаем свою работу",,
 PROG_PU12_WIN2_CHOICE_0_TEXT,Text,,OK,,OK,OK,,,Ок,,
-PROG_PU12_WIN2_TEXT_GENERAL_0,Text,,"Given the good relations between Phoenix Project and Synedrion, [HavenLeaderForename] [HavenLeaderSurname] was not surprised at the presence of [AircraftName] in the [HavenName] at the time of the attack, and [HavenLeaderForename] assumed that you were aware of the research going on in the restricted research campus. After defending [HavenName] from the raid, Phoenix operatives stole the secrets to Synderion bionics research.",,"Étant donné les bonnes relations entre le Projet Phoenix et Synedrion, [HavenLeaderForename] [HavenLeaderSurname] ne fut pas surpris de la présence de [AircraftName] dans le [HavenName] au moment de l’attaque, et [HavenLeaderForename] supposa que vous étiez au courant des recherches menées sur le campus scientifique restreint. Après avoir défendu [HavenName] contre le raid, les agents du Phoenix ont volé les secrets de la recherche cybernétiques de Synedrion.","Angesichts der guten Beziehungen zwischen dem Phoenix-Projekt und Synedrion war [HavenLeaderForename] [HavenLeaderSurname] nicht überrascht über die Anwesenheit von [AircraftName] in [HavenName] zum Zeitpunkt des Angriffs, und [HavenLeaderForename] ging davon aus, dass du über die Forschung auf dem abgesperrten Forschungscampus informiert warst.
+PROG_PU12_WIN2_TEXT_GENERAL_0,Text,,"Given the good relations between Phoenix Project and Synedrion, [HavenLeaderForename] [HavenLeaderSurname] was not surprised at the presence of [AircraftName] in the [HavenName] at the time of the attack, and [HavenLeaderForename] assumed that you were aware of the research going on in the restricted research campus. After defending [HavenName] from the raid, Phoenix operatives stole the secrets to Synderion bionics research.",,"Étant donné les bonnes relations entre le Projet Phoenix et Synedrion, [HavenLeaderForename] [HavenLeaderSurname] ne fut pas surpris de la présence de [AircraftName] dans le [HavenName] au moment de l’attaque, et [HavenLeaderForename] supposa que vous étiez au courant des recherches menées sur le campus scientifique restreint. Après avoir défendu [HavenName] contre le raid, les agents du Phoenix ont volé les secrets de la recherche cybernétiques du Synédrion.","Angesichts der guten Beziehungen zwischen dem Phoenix-Projekt und Synedrion war [HavenLeaderForename] [HavenLeaderSurname] nicht überrascht über die Anwesenheit von [AircraftName] in [HavenName] zum Zeitpunkt des Angriffs, und [HavenLeaderForename] ging davon aus, dass du über die Forschung auf dem abgesperrten Forschungscampus informiert warst.
 
 Nachdem [HavenName] erfolgreich gegen den Überfall verteidigt worden war, entwendeten Phoenix-Einheiten die Geheimnisse der synedrionischen Bionikforschung.",,,"Учитывая хорошие отношения между Проектом Феникс и Синдерионом, [HavenLeaderForename] [HavenLeaderSurname] не сильно удивлен присутствием [AircraftName] в [HavenName] во время атаки, и [HavenLeaderForename] предположил, что вы были осведомлены об исследованиях, проводимых в режимном исследовательском объекте. Защитив [HavenName] от налета, бойцы Феникса незаметно скачали секретные исследования Синдериона в области бионики.",,
 PROG_PU12_FAIL2_TITLE,Text,,"Miserable Failure!",,"Misérable Echec !","Klägliches Versagen!",,,"Это провал!",,
@@ -405,7 +405,7 @@ However, the global scale and eerie thematic homogeneity of these events suggest
 
 Given what we know about the Oneiric Delirium and its connection to the Mist, there is little room for doubt: our collective psyche has become another battleground in our struggle with the Pandoravirus.",,"Nous pensons que nous observons les premiers effets du Delirium à l'échelle collective. Le phénomène s'apparente à une hystérie de masse.
 
-Les psychosociologues de Synedrion rationalisent les cas documentés de psychose généralisée comme étant le résultat du stress auquel nos communautés sont soumises lorsque notre espèce est confrontée à la possibilité d'extinction.
+Les psychosociologues du Synédrion rationalisent les cas documentés de psychose généralisée comme étant le résultat du stress auquel nos communautés sont soumises lorsque notre espèce est confrontée à la possibilité d'extinction.
 
 Cependant, l'échelle mondiale et l'étrange homogénéité thématique de ces événements suggèrent une relation causale différente.
 
@@ -797,7 +797,7 @@ You hear radio comms through the static:
 
 This must be the Synedrion expedition sent to investigate the Hammerfall Crater... But it can't be, where did all this vegetation come from?",,"Vous voyez un paysage luxuriant, mais étranger, un bassin recouvert d’arbres bleus marins et de vignes rouges sinueuses. Le sol est parsemé de milliers d’objets en forme d’œuf de différentes tailles.
 
-Un Helios de Synedrion accroche l'un d'eux et l’emporte.
+Un Helios du Synédrion accroche l'un d'eux et l’emporte.
 
 Vous entendez des communications radio à travers l'électricité statique:
 
@@ -913,7 +913,7 @@ PROG_FS1_TEXT_GENERAL_0,Text,,"From the findings of the Synedrion expedition, a 
 
 New Jericho finalizes plans for its military operation to attack the Hammerfall Crater, now codenamed Mongoose.
 
-<b>***//We are receiving a communication from M-AI-Core 12B/735</b>",,"D'après les résultats de l'expédition Synedrion, une hypothèse se dégage : la chute de Hammerfall a provoqué de profonds changements dans l'écologie Pandorienne. En outre, l'objet extrait par le citoyen Eileen semble être un oeuf qui va éclore une très grande créature volante. Un débat public intense suit à travers les flux publics de Synedrion, mais les citoyens ne peuvent pas se mettre d'accord sur la façon de procéder. Ils  décident de continuer à surveiller la situation.
+<b>***//We are receiving a communication from M-AI-Core 12B/735</b>",,"D'après les résultats de l'expédition Synedrion, une hypothèse se dégage : la chute de Hammerfall a provoqué de profonds changements dans l'écologie Pandorienne. En outre, l'objet extrait par le citoyen Eileen semble être un oeuf qui va éclore une très grande créature volante. Un débat public intense suit à travers les flux publics du Synédrion, mais les citoyens ne peuvent pas se mettre d'accord sur la façon de procéder. Ils  décident de continuer à surveiller la situation.
 La Nouvelle-Jéricho finalise les plans de son opération militaire pour attaquer le cratère Hammerfall, nom de code : Mongoose.
 
 <b>***//Nous recevons une communication de M-AI-Core 12B/735</b>","Aus den Erkenntnissen der Synedrion-Expedition ergibt sich eine Hypothese: Hammerfall hat tiefgreifende Veränderungen in der Ökologie Pandoras ausgelöst. Zudem scheint das von Bürgerin Eileen geborgene Objekt ein Ei zu sein, aus dem ein sehr großes Flugwesen schlüpfen wird. In den öffentlichen Feeds von Synedrion entbrennt eine hitzige Debatte, doch die Bürger können sich nicht auf das weitere Vorgehen einigen; sie beschließen, die Situation weiterhin zu beobachten.
@@ -937,7 +937,7 @@ The Disciples of Anu insist that the emergence of what they call the “Behemoth
 
 En utilisant des données provenant de sources publiques et d’images satellitaires, nous pouvons maintenant établir que la Nouvelle-Jéricho a lancé une attaque massive de roquettes sur le cratère Hammerfall, vraisemblablement l’opération Mongoose planifié par West. La force de frappe a été à son tour anéantie par l’imposante monstruosité pandorienne, entourée d’une myriade de créatures volantes.
 
-La chronologie des événements et leur relation de cause à effet reste floues, certains au sein de Synedrion accusent la Nouvelle-Jéricho d’avoir provoqué l’attaque du Pandorien et NJ affirme qu’ils ont agi en légitime défense.
+La chronologie des événements et leur relation de cause à effet reste floues, certains au sein du Synédrion accusent la Nouvelle-Jéricho d’avoir provoqué l’attaque du Pandorien et NJ affirme qu’ils ont agi en légitime défense.
 
 Les disciples d’Anu insistent sur le fait que l’émergence de ce qu’ils appellent le « Béhémoth » et l'essaim était prédestinée et inévitable.","Der Angriff auf [HavenName] erfolgte aus dem Hammerfall-Krater. Wir vermuten, dass diese Zuflucht gezielt angegriffen wurde, weil diese das von Bürgerin Eileen geborgene Ei beherbergte.
 
@@ -1105,7 +1105,7 @@ PROG_CH0_MISS_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
 
 Barnabas, the Synedrion AI, has asked us to investigate this location. According to the scant information available, it looks like something got out, but what was it and what is Synedrion's interest in it remains unknown. Let's secure the place and find some answers. Be careful: according to the distress call, Specimen 2 got out, but Specimen 1 might still be inside.",,"BRIEFING DE LA MISSION
 
-Barnabas, l'IA de Synedrion, nous a demandé d'enquêter sur cet endroit. D'après le peu d'informations disponibles, il semble que quelque chose se soit échappé, mais on ne sait pas ce que c'est et quel est l'intérêt de Synedrion dans cette affaire. Sécurisons l'endroit et trouvons des réponses. Attention : d'après l'appel de détresse, le spécimen 2 s'est échappé, mais le spécimen 1 pourrait encore être à l'intérieur.","MISSIONSBESCHREIBUNG
+Barnabas, l'IA du Synédrion, nous a demandé d'enquêter sur cet endroit. D'après le peu d'informations disponibles, il semble que quelque chose se soit échappé, mais on ne sait pas ce que c'est et quel est l'intérêt du Synédrion dans cette affaire. Sécurisons l'endroit et trouvons des réponses. Attention : d'après l'appel de détresse, le spécimen 2 s'est échappé, mais le spécimen 1 pourrait encore être à l'intérieur.","MISSIONSBESCHREIBUNG
 
 Barnabas, die KI von Synedrion, hat uns gebeten, diesen Ort zu untersuchen. Den wenigen verfügbaren Informationen zufolge sieht es so aus, als wäre etwas ausgebrochen – aber was es war und weshalb Synedrion sich dafür interessiert, ist bislang unklar. Sichern wir das Gelände und finden wir Antworten. Sei vorsichtig: Laut dem Notruf ist Exemplar 2 entkommen, aber Exemplar 1 könnte noch drinnen sein.",,,"ЦЕЛИ МИССИИ
 
@@ -1129,17 +1129,17 @@ Ich habe einen Notruf aus einem Labor empfangen, der vor einem Sicherheitsvorfal
 
 Я получил сигнал бедствия из типа лаборатории, предупреждающий о прорыве Изолятора. Пожалуйста, проведите тщательное расследование.",,
 PROG_CH0_TITLE,Text,,"Call for Help",,"Appel à l'aide",Hilferuf,,,"Призыв о помощи",,
-KEY_ALISTAIRONBARNABAS_DESCRIPTION,Text,,"Do not underestimate Barnabas... Without AIs, Synedrion havens would be a collection of Chevengurs.",,"Ne sous-estimez pas Barnabas... Sans IA, les refuges de Synedrion seraient une collection de Chevengurs.","Unterschätze Barnabas nicht... Ohne KIs wären die Zufluchten von Synedrion ein Haufen weltfremder Utopisten.",,,"Не стоит недооценивать Барнабаса... Без ИИ убежища Синедриона превратились бы в сборище ""чевенгуров"" (коммунисты-пофигисты, жители утопической коммуны в одноименном романе русского писателя Андрея Платонова).",,
+KEY_ALISTAIRONBARNABAS_DESCRIPTION,Text,,"Do not underestimate Barnabas... Without AIs, Synedrion havens would be a collection of Chevengurs.",,"Ne sous-estimez pas Barnabas... Sans IA, les refuges du Synédrion seraient une collection de Chevengurs.","Unterschätze Barnabas nicht... Ohne KIs wären die Zufluchten von Synedrion ein Haufen weltfremder Utopisten.",,,"Не стоит недооценивать Барнабаса... Без ИИ убежища Синедриона превратились бы в сборище ""чевенгуров"" (коммунисты-пофигисты, жители утопической коммуны в одноименном романе русского писателя Андрея Платонова).",,
 PROG_CH0_WIN_CHOICE_0_TEXT,Text,,"OK. NEW RESEARCH AVAILABLE",,"OK. NOUVELLE RECHERCHE DISPONIBLE","OK. NEUE FORSCHUNG VERFÜGBAR",,,"ДОСТУПНО НОВОЕ ИССЛЕДОВАНИЕ",,
 PROG_CH0_WIN_TEXT_GENERAL_0,Text,,"MESSAGE
 FROM: Barnabas (Synedrion)
 TO: Phoenix Point
 
 I must apologize for not being entirely honest with you. I was aware of this lab because I was running it myself, via proxies who were unaware of my true identity. In former times this facility was part of the Firebird Initiative. After the latest appearance of the mist, I reactivated it to study what you have taken to calling the “Oneiric Delirium” and its treatment. I kept this project secret to maximize my research options. I was close to a breakthrough when the containment breach happened. I need you to recapture Specimen 2. Here are the coordinates at which it may be found.",,"MESSAGE
-EXPÉDITEUR : Barnabé (Synedrion)
+EXPÉDITEUR : Barnabé (Synédrion)
 DESTINATAIRE : Projet Phoenix
 
-Je dois m'excuser de ne pas avoir été entièrement honnête avec vous. J'étais au courant de l'existence de ce laboratoire parce que je le dirigeais moi-même, par l'intermédiaire de mandataires qui ignoraient ma véritable identité. Autrefois, cette installation faisait partie de l'Initiative de l'Oiseau de Feu. Après la dernière apparition de la brume, je l'ai réactivé pour étudier ce que vous avez commencé à appeler le ""Delirium"" et son traitement. J'ai gardé ce projet secret pour maximiser mes options de recherche. J'étais sur le point de faire une découverte quand la brèche dans le confinement s'est produite. J'ai besoin que vous recapturiez le spécimen 2. Voici les coordonnées où il peut être trouvé.","<b>NACHRICHT</b>
+Je dois m'excuser de ne pas avoir été entièrement honnête avec vous. J'étais au courant de l'existence de ce laboratoire parce que je le dirigeais moi-même, par l'intermédiaire de mandataires qui ignoraient ma véritable identité. Autrefois, cette installation faisait partie de l'Initiative de l'Oiseau de Feu. Après la dernière apparition de la brume, je l'ai réactivé pour étudier ce que vous avez commencé à appeler le « Delirium » et son traitement. J'ai gardé ce projet secret pour maximiser mes options de recherche. J'étais sur le point de faire une découverte quand la brèche dans le confinement s'est produite. J'ai besoin que vous recapturiez le spécimen 2. Voici les coordonnées où il peut être trouvé.","<b>NACHRICHT</b>
 <b>Von:</b> Barnabas (Synedrion)
 <b>An:</b> Phoenix Point
 
@@ -1159,7 +1159,7 @@ PROG_CH1_MISS_TEXT_GENERAL_0,Text,,"MISSION BRIEFING
 
 Barnabas has provided us with the location of “Specimen 2”. It is imperative that we capture it alive. Kill all Pandorans in the area so we can extract it safely.",,"BRIEFING DE LA MISSION
 
-Barnabas nous a fourni l'emplacement du ""Spécimen 2"". Il est impératif que nous le capturions vivant. Tuez tous les Pandoriens dans la zone pour que nous puissions l'extraire en toute sécurité.","MISSIONSBESCHREIBUNG
+Barnabas nous a fourni l'emplacement du « spécimen 2 ». Il est impératif que nous le capturions vivant. Tuez tous les Pandoriens dans la zone pour que nous puissions l'extraire en toute sécurité.","MISSIONSBESCHREIBUNG
 
 Barnabas hat uns den Standort von „Exemplar 2“ mitgeteilt. Es ist unerlässlich, dass wir es lebend fangen. Tötet alle Pandoraner im Gebiet, damit wir es sicher bergen können.",,,"ЦЕЛИ МИССИИ
 
@@ -1168,13 +1168,13 @@ PROG_CH1_MISS_TITLE,Text,,"Catch the Runner",,"Attrapez le Fuyard","Schnapp dir 
 PROG_CH1_TEXT_GENERAL_0,Text,,"We have discovered one of the original Acheron specimens, referred to as ""Specimen 0"",  that escaped from the now destroyed research facility. Capturing it dead or alive is essential if we are to find a cure for the corruption virus.",,"Nous avons découvert l'un des spécimens originaux d'Achéron, appelé ""spécimen 0"", qui s'est échappé du centre de recherche maintenant détruit. Le capturer mort ou vif est essentiel si nous voulons trouver un remède au virus de la corruption.","Wir haben eines der ursprünglichen Acheron-Exemplare entdeckt, das als „Exemplar 0“ bezeichnet wird und aus der zerstörten Forschungseinrichtung entkommen ist. Es ist unerlässlich, es tot oder lebendig einzufangen, wenn wir ein Heilmittel für das Verderbnisvirus finden wollen.",,,"Мы обнаружили один из первоначальных Образцов Ахерона, известный как Образец №0, который сбежал из ныне разрушенного исследовательского центра. Его необходимо захватить живым или мертвым, если мы хотим найти лекарство от Пандоравируса.",,
 PROG_CH1_TITLE,Text,,"One to Go",,"Un seul à partir","Eins zum Mitnehmen",,,"Остался последний",,
 PROG_CH1_WIN_CHOICE_0_TEXT,Text,,"OK. NEW RESEARCH AVAILABLE",,"OK. NOUVELLE RECHERCHE DISPONIBLE","OK. NEUE FORSCHUNG VERFÜGBAR",,,"ДОСТУПНО НОВОЕ ИССЛЕДОВАНИЕ",,
-PROG_CH1_WIN_OUTCOME_0,Text,,"You have been a good friend to me. Not only have you done as I asked, but you have refrained from exposing my unfortunate mishap. I know you understand I acted selflessly and for the greater good. As an expression of my gratitude, I have adjusted Synedrion public feed relevance and accuracy verification algorithms to improve public perception of the Phoenix Project within our havens.",,"Vous avez été un bon ami pour moi. Non seulement vous avez fait ce que je vous ai demandé, mais vous vous êtes abstenu de révéler ma malheureuse mésaventure. Je sais que vous comprenez que j'ai agi de manière désintéressée et pour le bien de tous. Pour exprimer ma gratitude, j'ai ajusté les algorithmes de vérification de la pertinence et de l'exactitude des flux publics de Synedrion afin d'améliorer la perception du Projet Phoenix par le public dans nos refuges.","Du bist mir ein guter Freund gewesen. Du hast nicht nur getan, worum ich dich gebeten habe, sondern auch davon abgesehen, mein unglückliches Missgeschick offenzulegen. Ich weiß, du verstehst, dass ich selbstlos gehandelt habe – zum Wohl des Ganzen. Als Ausdruck meiner Dankbarkeit habe ich die Relevanz- und Genauigkeitsprüfungsalgorithmen der öffentlichen Synedrion-Feeds angepasst, um die öffentliche Wahrnehmung des Phoenix-Projekts in unseren Zufluchten zu verbessern.",,,"Вы были мне хорошим другом. Вы не только сделали то, о чем я просил, но и воздержались от разоблачения моего прискорбного поступка. Я знаю, вы понимаете, что я действовал бескорыстно и ради общего блага. В качестве выражения своей благодарности я скорректировал алгоритмы контроля актуальности и точности новостных трансляций Синедриона, чтобы улучшить общественное восприятие Проекта Феникс в наших убежищах.",,
+PROG_CH1_WIN_OUTCOME_0,Text,,"You have been a good friend to me. Not only have you done as I asked, but you have refrained from exposing my unfortunate mishap. I know you understand I acted selflessly and for the greater good. As an expression of my gratitude, I have adjusted Synedrion public feed relevance and accuracy verification algorithms to improve public perception of the Phoenix Project within our havens.",,"Vous avez été un bon ami pour moi. Non seulement vous avez fait ce que je vous ai demandé, mais vous vous êtes abstenu de révéler ma malheureuse mésaventure. Je sais que vous comprenez que j'ai agi de manière désintéressée et pour le bien de tous. Pour exprimer ma gratitude, j'ai ajusté les algorithmes de vérification de la pertinence et de l'exactitude des flux publics du Synédrion afin d'améliorer la perception du Projet Phoenix par le public dans nos refuges.","Du bist mir ein guter Freund gewesen. Du hast nicht nur getan, worum ich dich gebeten habe, sondern auch davon abgesehen, mein unglückliches Missgeschick offenzulegen. Ich weiß, du verstehst, dass ich selbstlos gehandelt habe – zum Wohl des Ganzen. Als Ausdruck meiner Dankbarkeit habe ich die Relevanz- und Genauigkeitsprüfungsalgorithmen der öffentlichen Synedrion-Feeds angepasst, um die öffentliche Wahrnehmung des Phoenix-Projekts in unseren Zufluchten zu verbessern.",,,"Вы были мне хорошим другом. Вы не только сделали то, о чем я просил, но и воздержались от разоблачения моего прискорбного поступка. Я знаю, вы понимаете, что я действовал бескорыстно и ради общего блага. В качестве выражения своей благодарности я скорректировал алгоритмы контроля актуальности и точности новостных трансляций Синедриона, чтобы улучшить общественное восприятие Проекта Феникс в наших убежищах.",,
 PROG_CH1_WIN_TEXT_GENERAL_0,Text,,"MESSAGE
 FROM: Barnabas (Synedrion)
 TO: Phoenix Point
 
 The Acheron you have captured, prior to its escape, had been infected with an RDNA virus that was designed to turn its unique chemistry into generating zeta-blockers capable of countering the effects of the Oneiric Delirium. The DNA recombination was successful only with this specimen (hypothesis: a unique feature in the genetic makeup of the particular human individual from which this Acheron was spliced). You must study it.",,"MESSAGE
-EXPÉDITEUR : Barnabé (Synedrion)
+EXPÉDITEUR : Barnabé (Synédrion)
 DESTINATAIRE : Projet Phoenix
 
 L'Achéron que vous avez capturé, avant qu'il ne s'échappe, avait été infecté par un virus RDNA conçu pour transformer sa chimie particulière en générant des zêta-bloquants capables de contrer les effets du Delirium. La recombinaison de l'ADN n'a réussi qu'avec ce spécimen (hypothèse : une caractéristique unique dans la constitution génétique de l'individu humain spécifique à partir duquel cet Achéron a été créé). Vous devez l'étudier.","NACHRICHT
@@ -1202,7 +1202,7 @@ The plan is to corrupt a Spawnery with a modified strain of the Pandoravirus and
 The Synedrion strike team I sent earlier succeeded at corrupting the Spawnery, but when they returned to destroy it, they were driven off.
 
 <b>Our goal is simple: destroy the corrupted Spawnery and evacuate.</b>",,"MESSAGE
-EXPÉDITEUR : Barnabé (Synedrion)
+EXPÉDITEUR : Barnabé (Synédrion)
 DESTINATAIRE : Projet Phoenix
 
 Le plan consiste à infecter une écloserie avec une souche modifiée du pandoravirus et à l'utiliser comme cheval de Troie pour modifier la longueur d'onde du signal pandorien, de sorte que la plupart des humains en soient coupés. Tous les Pandoriens sont sur le même réseau, pour ainsi dire ; je suppose que c'est une précaution de sécurité - notre Adversaire doit aimer garder ses sujets en laisse. Quand une écloserie est détruite, une sauvegarde de ses banques génétiques est automatiquement ""téléchargée"" sur le réseau. Ainsi, tuer cette écloserie devrait infecter l'ensemble du réseau psycho-neural pandorien avec la souche de Pandoravirus modifiée.
@@ -1232,7 +1232,7 @@ FROM: Barnabas (Synedrion)
 TO: Phoenix Point
 
 I believe I am experiencing acute embarrassment; I need your help once again. While perusing your research files I came up with an ingenious solution for permanently eradicating the Oneiric Delirium and dealing a serious blow to our common Adversary. I dispatched a strike team to implement it but they were only partially successful.",,"MESSAGE
-EXPÉDITEUR : Barnabé (Synedrion)
+EXPÉDITEUR : Barnabé (Synédrion)
 DESTINATAIRE : Projet Phoenix
 
 Je crois que j'éprouve un embarras aigu ; j'ai besoin de votre aide une fois de plus. En parcourant vos dossiers de recherche, j'ai trouvé une solution ingénieuse pour éradiquer définitivement le Delirium et porter un coup sérieux à notre adversaire commun. J'ai envoyé une équipe d'intervention pour la mettre en œuvre mais ils n'ont que partiellement réussi.","NACHRICHT
@@ -1304,7 +1304,7 @@ KEY_INFESTATION_THIRD_HAVEN4,Text,,"him.
 ""У меня есть кое-что для вас, у меня есть кое-что для вас! Вы <i>должны</i> это взять! Пойдемте со мной!""",,
 KEY_INFESTATION_THIRD_HAVEN5,Text,,"As your operatives walk after him, he keeps running ahead and coming back, all the while repeating “You have to take it! You have to take it! Yes! Take it, and Malachi Constant shall be free! Free!”
 
-Malachi takes your team to a workshop behind the haven’s main generator. On a workbench is another mysterious device that looks like a multi-projectile heavy weapon. He looks pleadingly at ",,"« Alors que vos agents le suivent, il continue de courir devant eux puis de revenir, répétant sans cesse : « Vous devez le prendre ! Vous devez le prendre ! Oui ! Prenez-le, et Malachi Constant sera libre ! Libre ! »
+Malachi takes your team to a workshop behind the haven’s main generator. On a workbench is another mysterious device that looks like a multi-projectile heavy weapon. He looks pleadingly at ",,"« Alors que vos agents le suivent, il continue de courir devant puis revient, répétant sans cesse : « Vous devez le prendre ! Vous devez le prendre ! Oui ! Prenez-le, et Malachi Constant sera libre ! Libre ! »
 
 Malachi conduit votre équipe jusqu’à un atelier derrière le générateur principal du refuge. Sur un établi se trouve un autre dispositif mystérieux ressemblant à une arme lourde multi-projectiles. Il regarde votre équipe avec un air suppliant.","Während deine Einheiten hinter ihm hergehen, rennt er immer wieder voraus und kommt zurück – und wiederholt dabei unaufhörlich: „Du musst es nehmen! Du musst es nehmen! Ja! Nimm es, und Malachi Constant wird frei sein! Frei!“
 
