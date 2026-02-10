@@ -7,11 +7,11 @@ Example: Margareta has 12 Willpower and 5 Delirium. Because she has 36 Stamina, 
 2) This shows the Delirium character has over the total Delirium character can have, depending on progress of Oneiric Delirium. At first, character may not have Delirium in excess of one third of their Willpower. By midgame this is increased to a half, and by late game there is no cap. <b>Pay attention to Oneiric Delirium events to learn when the cap is changed</b>.
 3) Stamina is reducing effects of Delirium on Willpower: each <color=#A020F0><b> -</b></color> signifies that effect is reduced by 1. ",,"Peut-être qu'il est temps d'expliquer tous ces chiffres violets et les tirets !
 
-Exemple : Margareta a 12 Points de Volonté et 5 Points de Delirium. Comme elle a 36 points d'Endurance, et que chaque 10 points d'Endurance, les effets du Delirium sont réduit de 1, l'effet du Delirium sur la Volonté de Margareta est réduit de 3. Elle a donc 12-(5-3)=10 Volontés disponibles.
+Exemple : Margareta a 12 points de volonté et 5 points de corruption. Comme elle a 36 points d'endurance, et que chaque 10 points d'endurance, les effets de la corruption sont réduit de 1, l'effet de la corruption sur la volonté de Margareta est réduit de 3. Elle a donc 12-(5-3)=10 points de volonté disponibles.
 
-1) C'est la volonté réelle du personnage. Le chiffre <color=#A020F0>(en violet)</color> signifie que la Volonté est réduite par le Delirium.
-2) Cela montre que le Delirium du personnage est supérieur au Delirium total qu'il peut avoir, en fonction de la progression du Delirium. Au début, le personnage ne peut pas avoir un Delirium supérieur à un tiers de sa Volonté. En milieu de partie, cette limite passe à la moitié, et en fin de partie, il n'y a plus de limite. <b>Faites attention aux événements lié au Delirium pour savoir quand le plafond est modifié.</b>
-3) L'endurance réduit les effets du Delirium sur la Volonté : chaque <color=#A020F0><b> -</b></color> signifie que cet effet est réduit de 1.","Zeit, die violetten Zahlen und Symbole zu entwirren.
+1) C'est la volonté réelle du personnage. Le chiffre <color=#A020F0>(en violet)</color> signifie que la volonté est réduite par la corruption.
+2) Cela montre que la corruption du personnage est supérieure à la corruption totale qu'il peut avoir, en fonction de la progression du délire onirique. Au début, le personnage ne peut pas être corrompu au-delà d'un tiers de sa volonté. En milieu de partie, cette limite passe à la moitié, et en fin de partie, il n'y a plus de limite. <b>Faites attention aux événements lié au délire onirique pour savoir quand le plafond est modifié.</b>
+3) L'endurance réduit les effets de la corruption sur la volonté : chaque <color=#A020F0><b>-</b></color> signifie que cet effet est réduit de 1.","Zeit, die violetten Zahlen und Symbole zu entwirren.
 
 Beispiel: Margareta besitzt 12 Willenskraft und 5 Delirium. Da sie über 36 Ausdauer verfügt und jeweils 10 Punkte Ausdauer die Auswirkungen des Deliriums um 1 reduzieren, wird der Effekt des Deliriums auf ihre Willenskraft um 3 gesenkt. Somit stehen ihr 12 – (5 – 3) = 10 Willenskraft zur Verfügung.
 
@@ -26,7 +26,7 @@ Beispiel: Margareta besitzt 12 Willenskraft und 5 Delirium. Da sie über 36 Ausd
 1 - это базовая Сила Воли персонажа, потенциальный максимум при прокачке персонажа и число в скобках<color=#A020F0> фиолетовым </color>цветом - текущая Сила Воли, сниженная из-за Сонного Безумия.
 2 - текущий уровень Сонного Безумия у персонажа и его максимум (ИСБ - Индекс Сонного Безумия), который определяется в зависимости от прогрессирования Сонного Безумия. В начале игры максимальный уровень Сонного Безумия у персонажа может быть не более трети его Силы Воли. К середине игры это значение увеличивается до половины Силы Воли, а к концу игры ограничения пропадают. <b>Обращайте внимание на события Сонного Безумия, чтобы не пропускать изменение максимума</b>.
 3 - выносливость текущая и выносливость максимальная. Выносливость снижает влияние Сонного Безумия на Силу Воли: каждый фиолетовый знак <color=#A020F0><b>-</b></color> означает, что эффект уменьшается на 1.",,
-KEY_GEO_HINT_CUSTOMIZE_TITLE,Text,,DELIRIUM,,DELIRIUM,DELIRIUM,,,"СОННОЕ БЕЗУМИЕ",,
+KEY_GEO_HINT_CUSTOMIZE_TITLE,Text,,DELIRIUM,,CORRUPTION,DELIRIUM,,,"СОННОЕ БЕЗУМИЕ",,
 KEY_GEO_HINT_PANDORAN_BASE_DIPLOMACY_EFFECTS_DESCRIPTION,Text,,"In TFTV, Factions will <b>not</b> react negatively to revealed Pandoran Colonies if you fail to destroy them. However, you will suffer a small penalty with the leaders of the nearby havens.
 
 Each Pandoran colony contributes to Pandoran evolution: the more active Pandoran colonies there are, the faster the enemy will field more advanced units and the faster the Oneiric Delirium will grow. 
@@ -34,7 +34,7 @@ Each Pandoran colony contributes to Pandoran evolution: the more active Pandoran
 In addition, destroying a more advanced Pandoran colony (a Lair or a Citadel) removes the earliest <b>Void Omen</b> currently in play. (On Rookie difficulty, destroying Nests also removes Void Omens). 
 ",,"Dans TFTV, les factions ne réagiront <b>pas négativement</b> aux colonies pandoriennes révélées si vous ne parvenez pas à les détruire. Cependant, vous subirez une petite pénalité auprès des dirigeants des refuges proches.
 
-Chaque colonie pandorienne contribue à l'évolution des Pandoriens : plus il y a de colonies pandoriennes actives, plus vite l'ennemi déploie des unités plus avancées et plus vite le Delirium se développe.
+Chaque colonie pandorienne contribue à l'évolution des Pandoriens : plus il y a de colonies pandoriennes actives, plus vite l'ennemi déploie des unités plus avancées et plus vite le délire onirique se développe.
 
 En outre, la destruction d'une colonie pandorienne avancée (une tanière ou une citadelle) supprime la plus ancienne « Influence du Néant » actuellement en jeu. (En difficulté « Bleu », la destruction des Nids pandoriens supprime également les Influences du Néant).
 ","In TFTV reagieren Fraktionen <b>nicht</b> negativ darauf, wenn entdeckte pandoranische Kolonien nicht zerstört werden. Allerdings erleidest du eine geringe diplomatische Einbuße bei den Anführern nahegelegener Zufluchten.
