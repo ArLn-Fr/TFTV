@@ -35,8 +35,8 @@ KEY_GEO_ANCIENT_GUARDIAN_GUARD_NAME,Text,,"REACTIVATE BROKEN CYCLOPS",,"RÉACTIV
 KEY_MESSAGE_MISSING_REFINERY,Text,,"YOU HAVE NOT RESEARCHED ALL THE REQUIRED TECHNOLOGIES",,"VOUS N'AVEZ PAS RECHERCHÉ TOUTES LES TECHNOLOGIES REQUISES","SIE HABEN NICHT ALLE ERFORDERLICHEN TECHNOLOGIEN ERFORSCHT",,,"ВЫ НЕ ИЗУЧИЛИ ВСЕ НЕОБХОДИМЫЕ ТЕХНОЛОГИИ",,
 KEY_AC_PROTEAN_HARVEST_AFTER_REVEAL,Text,,"PROTEAN MUTANE SITE",,"SITE MUTANE PROTÉEN","STÄTTE PROTEISCHES MUTAN",,,"ОБНАРУЖЕН БЕЛКОВЫЙ МУТАГЕН",,
 KEY_AC_PROTEAN_REFINERY_AFTER_REVEAL,Text,,"PROTEAN MUTANE SITE",,"SITE MUTANE PROTÉEN","STÄTTE PROTEISCHES MUTAN",,,"ОБНАРУЖЕН БЕЛКОВЫЙ МУТАГЕН",,
-KEY_AC_ORICHALCUM_HARVEST_AFTER_REVEAL,Text,,"ORICHALCUM SITE",,"SITE D'ORICHALCUM",ORICHALCUM-STÄTTE,,,"ОБНАРУЖЕН ОРИХАЛК",,
-KEY_AC_ORICHALCUM_REFINERY_AFTER_REVEAL,Text,,"ORICHALCUM SITE",,"SITE D'ORICHALCUM",ORICHALCUM-STÄTTE,,,"ОБНАРУЖЕН ОРИХАЛК",,
+KEY_AC_ORICHALCUM_HARVEST_AFTER_REVEAL,Text,,"ORICHALCUM SITE",,"SITE D'ORICHALQUE",ORICHALCUM-STÄTTE,,,"ОБНАРУЖЕН ОРИХАЛК",,
+KEY_AC_ORICHALCUM_REFINERY_AFTER_REVEAL,Text,,"ORICHALCUM SITE",,"SITE D'ORICHALQUE",ORICHALCUM-STÄTTE,,,"ОБНАРУЖЕН ОРИХАЛК",,
 KEY_AC_CRYSTAL_HARVEST_AFTER_REVEAL,Text,,"LIVING CRYSTAL SITE",,"SITE DE CRISTAL VIVANT","STÄTTE MIT LEBENDEM KRISTALL",,,"ОБНАРУЖЕНЫ ЖИВЫЕ КРИСТАЛЛЫ",,
 KEY_AC_CRYSTAL_REFINERY_AFTER_REVEAL,Text,,"LIVING CRYSTAL SITE",,"SITE DE CRISTAL VIVANT","STÄTTE MIT LEBENDEM KRISTALL",,,"ОБНАРУЖЕНЫ ЖИВЫЕ КРИСТАЛЛЫ",,
 KEY_AC_TOP_LIVINGCRYSTAL,Text,,"LIVING CRYSTAL",,"CRISTAL VIVANT","<color=#33f2fc>LEBENDER KRISTALL</color>",,,"ЖИВОЙ КРИСТАЛЛ",,
@@ -130,7 +130,7 @@ KEY_DELIRIUM_UI_MED_TIP,Text,,"-Our operatives can now be afflicted with a Delir
 • Unsere Einheiten können nun von einem Delirium-Zustand betroffen sein, der bis zu die Hälfte ihrer Willenskraft beträgt.",,,"- Уровень заражения Сонным Безумием у наших бойцов не может быть более половины их Силы Воли (текущий ИСБ)",,
 KEY_DELIRIUM_UI_LOW_TIP,Text,,"-Our operatives can now be afflicted with a Delirium status of up to a third of their Willpower",,"- Nos unités peuvent désormais être affectés par le statut Delirium jusqu’au tier de leur Volonté.","<color=#a020f0>ONEIRISCHES DELIRIUM</color>
 • Unsere Einheiten können nun von einem Delirium-Zustand betroffen sein, der bis zu einem Drittel ihrer Willenskraft ausmacht.",,,"- Уровень заражения Сонным Безумием у наших бойцов не может быть более трети их Силы Воли (текущий ИСБ)",,
-KEY_DELIRIUM_UI_VO_TIP,Text,,"-<i>No limit to Delirium, regardless of ODI level</i>  Void Omen is in effect.",,"<i>Aucune limite au Delirium, quel que soit le niveau de Delirium</i>. L'Influence du Néant est en vigueur.","<color=#a020f0>ONEIRISCHES DELIRIUM</color>
+KEY_DELIRIUM_UI_VO_TIP,Text,,"-<i>No limit to Delirium, regardless of ODI level</i>  Void Omen is in effect.",,"- <i>Aucune limite à la corruption, quel que soit l'indice de délire onirique (ODI)</i>. L'Influence du Néant est en vigueur.","<color=#a020f0>ONEIRISCHES DELIRIUM</color>
 • <i>Keine Begrenzung des Deliriums, unabhängig vom ODI-Wert</i>. Omen der Leere ist aktiv.",,," -<i>Уровень заражения Сонным Безумием у наших бойцов может превышать ИСБ (Индекс Сонного Безумия).</i>
 Действует Знамение Пустоты",,
 KEY_DELIRIUM_UI_EVOLVED_UMBRA_TIP,Text,,"-Evolved Umbra sighted.",,"- Umbra évolué repéré.","• Entwickelter Umbra gesichtet.",,,"- Подтверждается эволюционирование Фиолетовых Тварей!",,
