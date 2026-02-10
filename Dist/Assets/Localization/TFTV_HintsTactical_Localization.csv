@@ -6,7 +6,7 @@ In TFTV, the Umbra can spawn in place of a dead Arthron or Triton with the <b>To
 
 The Umbra can only attack characters with Delirium or characters caught in the Mist, but they can be attacked by all characters.",,"<i>« On dit qu'une Ombre ne fait pas que vous tuer : elle vous vole votre âme. »</i>
 
-Dans TFTV, l’Umbra peut apparaître à la place d’un Arthron ou d’un Triton mort possédant la capacité « <b>Imprégné du Néant</b> », qu’ils ont une chance d’obtenir au début de chaque tour. La probabilité d’obtention correspond au total de corruption de toutes vos unités engagées dans la mission, divisé par deux.
+Dans TFTV, l'Umbra peut apparaître à la place d'un Arthron ou d'un Triton mort possédant la capacité « <b>Imprégné du Néant</b> », qu'ils ont une chance d'obtenir au début de chaque tour. La probabilité d'obtention correspond au total de corruption de toutes vos unités engagées dans la mission, divisé par deux.
 
 Les Umbras ne peuvent attaquer que les personnages corrompus, mais elles peuvent être attaquées par tous les personnages.","<i>„Man sagt, ein Umbra tötet dich nicht nur, er stiehlt dir auch die Seele.“</i>
 
@@ -37,13 +37,13 @@ Ce Pandorien est spécial. Après avoir été attaqué, il est très probable qu
 Dieser Pandoraner ist etwas Besonderes. Wird er angegriffen, erhält er mit hoher Wahrscheinlichkeit eine besondere Fähigkeit (es besteht jedoch eine geringe Chance, dass er von der Leere verlassen wird und seine Berührung verliert, wodurch er nichts erlangt). Anfangs kann dieser besondere Pandoraner lediglich die Fähigkeit erlangen, beim Tod eine Umbra-Version von sich selbst zu erzeugen. Mit fortschreitendem Oneirischen Delirium erhalten von der Leere berührte Pandoraner jedoch weitere Effekte, wenn sie angegriffen werden.",,,"<i>""От его тела исходил фиолетовый дым, и я понял, передо мной - Благословленный Пустотой.""</i>
 
 Этот Пандоран особенный. Если его атаковать, скорее всего он получит особую способность (однако, есть небольшой шанс, ""Пустота"" его проигнорирует, и он потеряет свое Благословление Пустоты, ничего не получив взамен). Поначалу единственная способность, которую он может получить - это восстать Фиолетовой Тварью после своей гибели. Однако по мере прогрессирования Сонного Безумия Пандораны, Благословленные Пустотой, будут получать другие способности, будучи атакованными в первый раз.",,
-TBTV_ON_ATTACK_TITLE_HINT,Text,,"Void Touched - Attacker is Marked for Death",,"Imprégné du Néant – L’attaquant est Désigné pour mourir","Leerenberührt – Angreifer erhält eine Todesmarkierung",,,"Благословленный Пустотой - напавший на него помечается в ответ Смертельной Меткой",,
+TBTV_ON_ATTACK_TITLE_HINT,Text,,"Void Touched - Attacker is Marked for Death",,"Imprégné du Néant – L'attaquant est Désigné pour mourir","Leerenberührt – Angreifer erhält eine Todesmarkierung",,,"Благословленный Пустотой - напавший на него помечается в ответ Смертельной Меткой",,
 TBTV_ON_ATTACK_TEXT_HINT,Text,,"<i>”There was the black plume, jetting from the crabbie’s head… I got the bastard, I thought… Next thing I know, they are all coming after me!""</i>
 
 The Pandorans have learned a new trick. From now on, any Touched by the Void Arthron or Triton can either:
 
 - Afflict its attacker with Marked for Death (all hits on the character do 10 extra damage)
-- Spawn Umbra on death",,"<i>« Il y a eu ce panache noir jaillissant de la tête du crabe... Je l’ai eu, ce salaud, me suis-je dit... Et l’instant d’après, ils se jetaient tous sur moi ! »</i>
+- Spawn Umbra on death",,"<i>« Il y a eu ce panache noir jaillissant de la tête du crabe... Je l'ai eu, ce salaud, me suis-je dit... Et l'instant d’après, ils se jetaient tous sur moi ! »</i>
 
 Les Pandoriens ont appris un nouveau tour. Désormais, tout Arthron ou Triton « Imprégné du Néant » peut, au choix :
 

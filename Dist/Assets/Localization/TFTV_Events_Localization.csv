@@ -7,7 +7,7 @@ The Pandorans grow ever more cunning and deliberate in their attacks. We need mo
 EXPÉDITEUR : Colonel Jack Harlson (Nouvelle-Jéricho)
 DESTINATAIRE : Phoenix
 
-Les pandoriens deviennent de plus en plus rusés et réfléchis dans leurs attaques. Nous avons besoin de plus d’armes et de meilleures qualités. West a raison : peu importe ce que rêvent les penseurs, toute solution réaliste à cette menace nécessite la force et la volonté de l’utiliser.","NACHRICHT
+Les pandoriens deviennent de plus en plus rusés et réfléchis dans leurs attaques. Nous avons besoin de plus d'armes et de meilleures qualités. West a raison : peu importe ce que rêvent les penseurs, toute solution réaliste à cette menace nécessite la force et la volonté de l'utiliser.","NACHRICHT
 Von: Oberst Jack Harlson (Neu-Jericho)
 An: Phoenix Point
 
@@ -16,7 +16,7 @@ Die Pandoraner werden mit jedem Angriff berechnender und zielgerichteter. Wir br
 КОМУ: Проект Феникс
 
 Пандораны становятся все более хитрыми и жесткими в своих атаках. Нам нужно больше самого лучшего оружия. Уэст прав: о чем бы ни мечтали фантазеры, любое реальное решение этой угрозы требует силы и готовности ее применить.",,
-PROG_LE1_WIN_CHOICE_2_TEXT,Text,,"The Pandorans did it, all of it!",,"Les Pandoriens l’ont fait !","DIE PANDORANER WAREN ES – ALLESAMT!",,,"Это сделали Пандораны, все это!",,
+PROG_LE1_WIN_CHOICE_2_TEXT,Text,,"The Pandorans did it, all of it!",,"Les Pandoriens l'ont fait !","DIE PANDORANER WAREN ES – ALLESAMT!",,,"Это сделали Пандораны, все это!",,
 PROG_LE1_WIN_CHOICE_1_OUTCOME_GENERAL,Text,,"MESSAGE 
 From: Colonel Jack Harlson (New Jericho) 
 To: Phoenix Point
@@ -25,7 +25,7 @@ I wanted to thank you personally for delivering this information. It is crucial 
 EXPÉDITEUR : Colonel Jack Harlson (Nouvelle-Jéricho)
 DESTINATAIRE : Phoenix
 
-Je tiens à vous remercier personnellement d’avoir fourni cette information. Il est crucial que nous comprenions tous les dangers auxquels nous faisons face. Au fil des ans, nous avons rassemblé beaucoup de preuves montrant comment les disciples d’Anu collaborent avec l’ennemi. En temps voulu, ils paieront pour leurs crimes contre l’humanité.","NACHRICHT
+Je tiens à vous remercier personnellement d'avoir fourni cette information. Il est crucial que nous comprenions tous les dangers auxquels nous faisons face. Au fil des ans, nous avons rassemblé beaucoup de preuves montrant comment les disciples d'Anu collaborent avec l'ennemi. En temps voulu, ils paieront pour leurs crimes contre l'humanité.","NACHRICHT
 Von: Oberst Jack Harlson (Neu-Jericho)
 An: Phoenix Point
 
@@ -35,7 +35,7 @@ Im Laufe der Jahre haben wir umfangreiche Aufklärungsergebnisse konsolidiert, d
 КОМУ:  Проект Феникс
 
 Я хотел бы лично поблагодарить вас за эту информацию. Очень важно, чтобы все мы понимали, какая опасность нам грозит. За прошедшие годы мы собрали множество доказательств того, что культисты Ану сотрудничают с врагом. В свое время они заплатят за свои преступления против человечества.",,
-PROG_LE1_WIN_CHOICE_1_TEXT,Text,,"Provide New Jericho with intelligence <i>proving</i> that Anu instigated the Pandoran attack",,"Fournir à la Nouvelle-Jéricho des renseignements <i>prouvant</i> que les Disciples d’Anu ont provoqués l’attaque des Pandoriens","Stelle Neu-Jericho Informationen zur Verfügung, die <i>beweisen</i>, dass Anu den pandoranischen Angriff angezettelt hat.",,,"Предоставить Новому Иерихону сведения, <i>доказывающие</i>, что Последователи Ану спровоцировали нападение Пандоранов",,
+PROG_LE1_WIN_CHOICE_1_TEXT,Text,,"Provide New Jericho with intelligence <i>proving</i> that Anu instigated the Pandoran attack",,"Fournir à la Nouvelle-Jéricho des renseignements <i>prouvant</i> que les Disciples d'Anu ont provoqués l'attaque des Pandoriens","Stelle Neu-Jericho Informationen zur Verfügung, die <i>beweisen</i>, dass Anu den pandoranischen Angriff angezettelt hat.",,,"Предоставить Новому Иерихону сведения, <i>доказывающие</i>, что Последователи Ану спровоцировали нападение Пандоранов",,
 PROG_LE1_WIN_CHOICE_0_OUTCOME_GENERAL,Text,,"MESSAGE 
 From: Colonel Jack Harlson (New Jericho) 
 To: Phoenix Point 
@@ -48,11 +48,11 @@ West is showing great leniency to your organization in the expectation of the ro
 EXPÉDITEUR : Colonel Jack Harlson (Nouvelle-Jéricho)
 DESTINATAIRE : Phoenix
 
-Il a été rapporté que votre organisation est en possession d’un véhicule blindé volé dans une installation de la Nouvelle-Jéricho qui a été attaquée par des Pandoriens et des assaillants humains ou pseudo-humains inconnus.
+Il a été rapporté que votre organisation est en possession d'un véhicule blindé volé dans une installation de la Nouvelle-Jéricho qui a été attaquée par des Pandoriens et des assaillants humains ou pseudo-humains inconnus.
 
 Je vais me renseigner personnellement.
 
-West fait preuve d’une grande indulgence à l’égard de votre organisation dans l’attente du rôle qu’elle jouera dans la libération de notre espèce. Pour ma part, parfois je ne suis pas sûr qu’on ait besoin de vous.","NACHRICHT
+West fait preuve d'une grande indulgence à l'égard de votre organisation dans l'attente du rôle qu'elle jouera dans la libération de notre espèce. Pour ma part, parfois je ne suis pas sûr qu’on ait besoin de vous.","NACHRICHT
 Von: Oberst Jack Harlson (Neu-Jericho)
 An: Phoenix Point
 
