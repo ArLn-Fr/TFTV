@@ -152,11 +152,11 @@ ALN_CRABMANUMBRA_RESEARCHDEF_COMPLETE,Text,,"""What are they? You ask me, but I 
 
 ""Our soldiers are under immense stress, not to mention the drug cocktail and direct cortical stimulation administered to them on a constant basis. If one or two of them start seeing 'oil monsters', I say it's a tolerable side effect.""
 
-- Dr. Abongameli Smith, New Jericho",,"""Que sont-elles ? Vous me le demandez, mais je ne le sais pas. Il n'y a rien à analyser en eux. Peut-être devriez-vous parler à Martika la Prêtresse... Ces 'ombres violettes' dont parlent nos guerriers semblent être son domaine d'expertise.""
+- Dr. Abongameli Smith, New Jericho",,"« Que sont-elles ? Vous me le demandez, mais je ne le sais pas. Il n'y a rien à analyser en eux. Peut-être devriez-vous parler à Martika la Prêtresse... Ces « ombres violettes » dont parlent nos guerriers semblent être son domaine d'expertise. »
 
 - Kalus, un disciple généticien
 
-""Nos agents sont soumis à un stress immense, sans parler du cocktail de drogues et de la stimulation corticale directe qui leur sont administrés en permanence. Si un ou deux d'entre eux commencent à voir des 'monstres de pétrole', je dis que c'est un effet secondaire tolérable.""
+« Nos agents sont soumis à un stress immense, sans parler du cocktail de drogues et de la stimulation corticale directe qui leur sont administrés en permanence. Si un ou deux d'entre eux commencent à voir des « monstres », je dis que c'est un effet secondaire tolérable. »
 
 - Dr. Abongameli Smith, Nouvelle-Jéricho","„Was sind sie? Ihr fragt mich, aber ich weiß es nicht. Sie lassen sich nicht sequenzieren. Vielleicht solltet ihr mit Martika, der Priesterin, sprechen... Diese „violetten Schatten“, von denen unsere Krieger sprechen, scheinen ihr Fachgebiet zu sein.“
 
@@ -168,18 +168,18 @@ ALN_CRABMANUMBRA_RESEARCHDEF_COMPLETE,Text,,"""What are they? You ask me, but I 
 
 «Наши бойцы подвергаются огромному стрессу, не говоря уже о коктейле из наркотиков и прямых стимуляциях мозга, которыми их постоянно пичкают. Если один или два из них начнут видеть «нефтяных монстров», я скажу, что это вполне терпимый побочный эффект».  - Доктор Абонгамели Смит, Новый Иерихон
 ",,
-ALN_CRABMANUMBRA_RESEARCHDEF_NAME,Text,,"ARTHRON UMBRA",,"OMBRE ARTHRON","ARTHRON UMBRA",,,"АРТРОН (ФИОЛЕТОВАЯ ТВАРЬ)",,
+ALN_CRABMANUMBRA_RESEARCHDEF_NAME,Text,,"ARTHRON UMBRA",,UMBRA ARTHRON,"ARTHRON UMBRA",,,"АРТРОН (ФИОЛЕТОВАЯ ТВАРЬ)",,
 ALN_FISHMANUMBRA_RESEARCHDEF_COMPLETE,Text,,"""It grew from the fishman's pool of blood in the ground... Like water from a spigot... flowing in reverse. I shot it! We all shot it, we emptied our mags into the fragging thing!... Then it just melted... There was nothing left... I don't know what got the rest of the squad, maybe there was more of... those things, maybe it was the regular crabbies. I lost it, I ran away, never looking back.""
 
 - Citizen Brackman, sole survivor of recon team Echo, Synedrion 
 
 ""Oh, but the Umbra are quite real, I assure you. Why wouldn't they be, when we live in the age of horrors?"" 
 
-- Alistair Ashby, Phoenix Project",,"""Il a grandi à partir de la mare de sang du pêcheur au sol... Comme l'eau d'un robinet... coulant à l'envers. Je l'ai tué ! Nous avons tous tiré, nous avons vidé nos chargeurs dans cette chose fragile !... Puis il a juste fondu... Il n'y avait plus rien... Je ne sais pas ce qui a eu le reste de l'équipe, peut-être qu'il y avait plus de... ces choses, peut-être que c'était les Crabbies habituels. Je les ai perdu, je me suis enfui, sans jamais regarder en arrière.""
+- Alistair Ashby, Phoenix Project",,"« Il a grandi à partir de la mare de sang du pêcheur au sol... Comme l'eau d'un robinet... coulant à l'envers. Je l'ai tué ! Nous avons tous tiré, nous avons vidé nos chargeurs dans cette chose fragile !... Puis il a juste fondu... Il n'y avait plus rien... Je ne sais pas ce qui a eu le reste de l'équipe, peut-être qu'il y avait plus de... ces choses, peut-être que c'était les Crabbies habituels. Je les ai perdu, je me suis enfui, sans jamais regarder en arrière. »
 
-- Citizen Brackman, seul survivant de l'équipe de reconnaissance Echo, Synedrion.
+- Citizen Brackman, seul survivant de l'équipe de reconnaissance Echo, Synédrion.
 
-""Oh, mais les Ombres sont bien réelles, je vous assure. Pourquoi ne le seraient-ils pas, alors que nous vivons dans l'âge des horreurs ?""
+« Oh, mais les Umbras sont bien réels, je vous assure. Pourquoi ne le seraient-ils pas, alors que nous vivons dans l'âge des horreurs ? »
 
 - Alistair Ashby, Projet Phoenix","„Es wuchs aus der Blutlache des Fischmenschen im Boden... wie Wasser aus einem Wasserhahn... ein widernatürlicher Rückstrom, der sich jeder physikalischen Logik entzieht. Ich habe darauf geschossen! Wir haben alle darauf geschossen, wir haben unsere Magazine in das verdammte Ding geleert!... Dann ist es einfach geschmolzen... Es war nichts mehr da... Ich weiß nicht, was mit dem Rest des Einsatzteams passiert ist, vielleicht gab es noch mehr von diesen... Dingern, vielleicht waren es die normalen Krabben. Ich habe die Nerven verloren, bin weggerannt und habe nie zurückgeblickt.“
 
@@ -191,12 +191,12 @@ ALN_FISHMANUMBRA_RESEARCHDEF_COMPLETE,Text,,"""It grew from the fishman's pool o
 
 «Ну, Фиолетовые Твари вполне реальны, уверяю вас. А почему бы и нет, если мы живем в эпоху ужасов?» - Алистер Эшби, Проект Феникс
 ",,
-ALN_FISHMANUMBRA_RESEARCHDEF_NAME,Text,,"TRITON UMBRA",,"OMBRE TRITON","TRITON UMBRA",,,"ТРИТОН (ФИОЛЕТОВАЯ ТВАРЬ)",,
+ALN_FISHMANUMBRA_RESEARCHDEF_NAME,Text,,"TRITON UMBRA",,UMBRA TRITON,"TRITON UMBRA",,,"ТРИТОН (ФИОЛЕТОВАЯ ТВАРЬ)",,
 TFTV_BIONICS_RESEARCHDEF_COMPLETE,Text,,"<i>""Which brings us back to Project Purity... This PV strain is even worse than the previous ones. In the Second Mist, we knew the human from the abomination. But now... We all have those nightmares. The chems may dull them, but they never go away. Even West has them, I'm sure. We don't fully understand how or why it happens, but the correlation is undeniable: the users of substantial bionic prosthetics are outperforming their non-augmented peers in psycho-evaluations by 30 to 60 percent. It's the opposite of what we expected! Want another interesting data point? They dream less.""</i>
 
 - Dr. Abongameli Smith, New Jericho
 
-Vastly improved from the first New Jericho attempts, the technology no longer leaves the subjects dead or crippled. A new set of bio-implants have successfully been developed thanks to advancements in neural co-processors and light metal alloy development. The new implants allow personnel to withstand heavy amounts of damage, land safely from great heights, and even run through walls if needed.",,"<i>""Ce qui nous ramène au Projet Pureté... Cette souche de Pandoravirus est encore pire que les précédentes. Dans la seconde brume, nous savions distinguer l'humain de l'abomination. Mais maintenant, nous avons tous ces cauchemars. Les médicaments peuvent les atténuer, mais ils ne disparaissent jamais.  Même West en a, j'en suis sûr. Nous ne comprenons pas entièrement comment ou pourquoi cela se produit, mais la corrélation est indéniable : les utilisateurs de prothèses cybernétiques majeures ont des performances supérieures de 30 à 60 % à celles de leurs pairs non équipés dans les évaluations psychologiques. C'est le contraire de ce a quoi nous nous attendions ! Vous voulez un autre point de données intéressant ? Ils rêvent moins.""</i>
+Vastly improved from the first New Jericho attempts, the technology no longer leaves the subjects dead or crippled. A new set of bio-implants have successfully been developed thanks to advancements in neural co-processors and light metal alloy development. The new implants allow personnel to withstand heavy amounts of damage, land safely from great heights, and even run through walls if needed.",,"<i>« Ce qui nous ramène au Projet Pureté... Cette souche de Pandoravirus est encore pire que les précédentes. Dans la seconde brume, nous savions distinguer l'humain de l'abomination. Mais maintenant, nous avons tous ces cauchemars. Les médicaments peuvent les atténuer, mais ils ne disparaissent jamais.  Même West en a, j'en suis sûr. Nous ne comprenons pas entièrement comment ou pourquoi cela se produit, mais la corrélation est indéniable : les utilisateurs de prothèses cybernétiques majeures ont des performances supérieures de 30 à 60 % à celles de leurs pairs non équipés dans les évaluations psychologiques. C'est le contraire de ce a quoi nous nous attendions ! Vous voulez un autre point de données intéressant ? Ils rêvent moins. »</i>
 
 - Dr. Abongameli Smith, Nouvelle-Jéricho
 
@@ -214,7 +214,7 @@ TFTV_MUTATIONTECH_RESEARCHDEF_COMPLETE,Text,,"<i>""Those that partake of the Wat
 
 This technology represents a first step towards mastering the mutation mechanics of the Pandoravirus. Test subjects have been injected with modified strains of the infection under carefully-controlled conditions, and with the additional of a chemical cocktail intended to keep the virus from asserting control over the subject. 
 
-The process is still experimental and there may be some side effects, but the potential benefits to our soldiers are worth the risk.",,"<i>""Ceux qui prennent part aux Eaux de la Vie disent que, à mesure que leurs rêves deviennent plus vifs, leur vie éveillée devient plus onirique, jusqu'à ce qu'ils ne sachent plus quand ils dorment et quand ils sont éveillés. Et ils se sentent capables d'incroyables faits d'armes et de vaincre leurs ennemis. Je suis exalté par leur confiance, mais je crains aussi leur brutalité.""</i>
+The process is still experimental and there may be some side effects, but the potential benefits to our soldiers are worth the risk.",,"<i>« Ceux qui prennent part aux Eaux de la Vie disent que, à mesure que leurs rêves deviennent plus vifs, leur vie éveillée devient plus onirique, jusqu'à ce qu'ils ne sachent plus quand ils dorment et quand ils sont éveillés. Et ils se sentent capables d'incroyables faits d'armes et de vaincre leurs ennemis. Je suis exalté par leur confiance, mais je crains aussi leur brutalité. »</i>
 
 - Neophyte Ryodik, Disciples of Anu
 
