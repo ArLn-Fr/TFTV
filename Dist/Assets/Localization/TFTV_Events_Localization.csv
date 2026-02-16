@@ -409,7 +409,7 @@ Les psychosociologues du Synédrion rationalisent les cas documentés de psychos
 
 Cependant, l'échelle mondiale et l'étrange homogénéité thématique de ces événements suggèrent une relation causale différente.
 
-Compte tenu de ce que nous savons du délire onirique et de son lien avec la brume, le doute n'est plus permis : notre psyché collective est devenue un autre champ de bataille dans notre lutte contre le pandoravirus.","Wir glauben, erstmals die Auswirkungen des Oneirischen Deliriums auf kollektiver Ebene zu beobachten. Das Phänomen ähnelt einer Massenhysterie.
+Compte tenu de ce que nous savons du délire onirique et de son lien avec la Brume, le doute n'est plus permis : notre psyché collective est devenue un autre champ de bataille dans notre lutte contre le pandoravirus.","Wir glauben, erstmals die Auswirkungen des Oneirischen Deliriums auf kollektiver Ebene zu beobachten. Das Phänomen ähnelt einer Massenhysterie.
 
 Synedrionische Psycho-Soziologen erklären die dokumentierten Fälle weitverbreiteter Psychosen bislang als Reaktion auf den Stress, dem unsere Gemeinschaften ausgesetzt sind, da unsere Spezies mit der Möglichkeit der Auslöschung konfrontiert ist.
 
@@ -441,7 +441,7 @@ BG_INTRO_1_DESCRIPTION,Text,,"I'm Alistair Ashby. Yes, the ""Mist Expert"". Than
 
 A few of us managed to get to this bunker and activate the emergency beacon before we were overrun by the creatures that followed us here. 
 
-We've got this place mostly up and running... Thanks to Olena, she is quite the wunderkind.",,"Je suis Alistair Ashby. Oui, « l'expert de la brume ». Merci d'avoir regardé mon contenu à l'époque, je suppose...
+We've got this place mostly up and running... Thanks to Olena, she is quite the wunderkind.",,"Je suis Alistair Ashby. Oui, « l'expert de la Brume ». Merci d'avoir regardé mon contenu à l'époque, je suppose...
 
 Certains d'entre nous ont réussi à atteindre ce bunker et à activer la balise de secours avant d'être envahis par les créatures qui nous ont suivis ici.
 
@@ -598,8 +598,8 @@ PROG_SY_POSTPONE_CHOICE,Text,,"Maybe later.",,"Peut-être plus tard.","Vielleich
 PROG_SY_POSTPONE_TEXT,Text,,"That's... disappointing. Very well, I hope you will change your mind.",,"C'est... décevant. Très bien, j'espère que vous changerez d'avis.","Das ist... enttäuschend. Nun gut. Ich hoffe, du änderst deine Meinung.",,,"Какое разочарование... Ладно, я надеюсь, что вы передумаете.",,
 PROG_NJ_POSTPONE_CHOICE,Text,,"Maybe later.",,"Peut-être plus tard.","Vielleicht später.",,,"Может быть, позже",,
 PROG_NJ_POSTPONE_TEXT,Text,,"That's... disappointing. Very well, I hope you will change your mind.",,"C'est... décevant. Très bien, j'espère que vous changerez d'avis.","Das ist... enttäuschend. Nun gut. Ich hoffe, du änderst deine Meinung.",,,"Какое разочарование... Ладно, я надеюсь, что вы передумаете.",,
-OLENA_ON_HAVEN_INFESTED_TITLE,Text,,"Trapped in the Mist",,"Piégé dans la brume","Im Nebel gefangen",,,"В ловушке Тумана",,
-OLENA_ON_HAVEN_INFESTED_TEXT,Text,,"We are receiving reports of survivors trapped in a haven in the Mist that succumbed to a recent Pandoran attack. We should send a well-prepared team to investigate.",,"Nous recevons des rapports de survivants piégés dans un refuge situé dans la brume qui a succombé à une récente attaque des Pandoriens. Nous devrions envoyer une équipe bien préparée pour enquêter.","Uns erreichen Berichte über Überlebende, die in einer Zuflucht eingeschlossen und kürzlich einem pandoranischen Angriff zum Opfer gefallen sind.
+OLENA_ON_HAVEN_INFESTED_TITLE,Text,,"Trapped in the Mist",,"Piégé dans la Brume","Im Nebel gefangen",,,"В ловушке Тумана",,
+OLENA_ON_HAVEN_INFESTED_TEXT,Text,,"We are receiving reports of survivors trapped in a haven in the Mist that succumbed to a recent Pandoran attack. We should send a well-prepared team to investigate.",,"Nous recevons des rapports de survivants piégés dans un refuge situé dans la Brume qui a succombé à une récente attaque des Pandoriens. Nous devrions envoyer une équipe bien préparée pour enquêter.","Uns erreichen Berichte über Überlebende, die in einer Zuflucht eingeschlossen und kürzlich einem pandoranischen Angriff zum Opfer gefallen sind.
 Der Nebel hat das Gebiet vollständig verschluckt. Wenn dort noch jemand lebt, bleibt nicht viel Zeit.
 Schicke ein gut vorbereitetes Team und finde heraus, was geschehen ist.",,,"Мы получаем сообщения о выживших, оказавшихся в ловушке где-то в Тумане. Убежище стало жертвой недавнего нападения Пандоранов. Мы должны отправить хорошо подготовленную команду для расследования.",,
 PROG_LW1_WIN_CHOICE_0_OUTCOME_GENERAL,Text,,"We recovered the living armor. It was clearly made here, but why would they be making armor for humans? ",,"Nous avons récupéré l'armure vivante. Elle a clairement été fabriquée ici, mais pourquoi fabriquer des armures pour les humains ?","Wir haben die lebende Rüstung geborgen. Sie wurde eindeutig hier hergestellt, aber warum sollten sie Rüstungen für Menschen herstellen?",,,"Мы нашли Живую Броню. Очевидно, что она была сделана здесь, но зачем им делать броню для людей?",,
@@ -780,7 +780,7 @@ PROG_FS9_TEXT_GENERAL_0,Text,,"Earlier today, an asteroid crashed into Earth. Th
 
 The asteroid hit deep inside a quarantine zone, where the Pandoravirus has aggressively mutated the surrounding ecology. However, traces of seismic activity have been detected in faraway coastal regions, coinciding with rumors of Pandoran hordes emerging from the mist.",,"Plus tôt dans la journée, un astéroïde s'est écrasé sur Terre. La libération d'énergie cinétique était à peu près équivalente aux échanges nucléaires entre l'Inde et l'Iran durant la troisième guerre mondiale. L'impact a été surnommé ""Hammerfall"", le plus important dans l'histoire connue de la Terre.
 
-L'astéroïde a frappé au coeur d'une zone de quarantaine, où le pandoravirus a muté de manière agressive l'écologie environnante. Cependant, des traces d'activité sismique ont été détectées dans des régions côtières lointaines, coïncidant avec des rumeurs de hordes pandoriennes émergeant de la brume.","Heute Morgen schlug ein Asteroid auf der Erde ein. Die freigesetzte kinetische Energie entsprach in etwa dem begrenzten nuklearen Schlagabtausch zwischen Indien und Iran während des Dritten Weltkriegs. Das Einschlagsereignis wurde „<b>Hammerfall</b>“ getauft – der größte Einschlag in der aufgezeichneten Geschichte der Erde.
+L'astéroïde a frappé au coeur d'une zone de quarantaine, où le pandoravirus a muté de manière agressive l'écologie environnante. Cependant, des traces d'activité sismique ont été détectées dans des régions côtières lointaines, coïncidant avec des rumeurs de hordes pandoriennes émergeant de la Brume.","Heute Morgen schlug ein Asteroid auf der Erde ein. Die freigesetzte kinetische Energie entsprach in etwa dem begrenzten nuklearen Schlagabtausch zwischen Indien und Iran während des Dritten Weltkriegs. Das Einschlagsereignis wurde „<b>Hammerfall</b>“ getauft – der größte Einschlag in der aufgezeichneten Geschichte der Erde.
 
 Der Asteroid traf tief innerhalb einer Quarantänezone, in der das Pandoravirus die umgebende Ökologie bereits aggressiv verändert hat. Dennoch wurden seismische Aktivitäten in weit entfernten Küstenregionen registriert, zeitgleich mit Gerüchten über pandoranische Horden, die aus dem Nebel auftauchen.",,,"Сегодня в Землю врезался астероид. Выброс кинетической энергии был примерно эквивалентен ограниченному обмену ядерными ударами между Индией и Ираном во время Третьей мировой войны. Это столкновение, крупнейшее в истории Земли, получило название ""Удар Молота"".
 
@@ -1139,7 +1139,7 @@ I must apologize for not being entirely honest with you. I was aware of this lab
 EXPÉDITEUR : Barnabé (Synédrion)
 DESTINATAIRE : Projet Phoenix
 
-Je dois m'excuser de ne pas avoir été entièrement honnête avec vous. J'étais au courant de l'existence de ce laboratoire parce que je le dirigeais moi-même, par l'intermédiaire de mandataires qui ignoraient ma véritable identité. Autrefois, cette installation faisait partie de l'Initiative de l'Oiseau de Feu. Après la dernière apparition de la brume, je l'ai réactivé pour étudier ce que vous avez commencé à appeler le « Delirium » et son traitement. J'ai gardé ce projet secret pour maximiser mes options de recherche. J'étais sur le point de faire une découverte quand la brèche dans le confinement s'est produite. J'ai besoin que vous recapturiez le spécimen 2. Voici les coordonnées où il peut être trouvé.","<b>NACHRICHT</b>
+Je dois m'excuser de ne pas avoir été entièrement honnête avec vous. J'étais au courant de l'existence de ce laboratoire parce que je le dirigeais moi-même, par l'intermédiaire de mandataires qui ignoraient ma véritable identité. Autrefois, cette installation faisait partie de l'Initiative de l'Oiseau de Feu. Après la dernière apparition de la Brume, je l'ai réactivé pour étudier ce que vous avez commencé à appeler le « Delirium » et son traitement. J'ai gardé ce projet secret pour maximiser mes options de recherche. J'étais sur le point de faire une découverte quand la brèche dans le confinement s'est produite. J'ai besoin que vous recapturiez le spécimen 2. Voici les coordonnées où il peut être trouvé.","<b>NACHRICHT</b>
 <b>Von:</b> Barnabas (Synedrion)
 <b>An:</b> Phoenix Point
 
