@@ -1,70 +1,70 @@
-Key,Type,Desc,English,Chinese (Simplified),French,German,Italian,Polish,Russian,,UI_Tester
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_0,Text,,"Get a night visit...",,Recevoir une visite nocturne...,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_1,Text,,"From your friendly Inter-Serve!",,De la part d'Inter-Serve !,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_2,Text,,"Your truth...",,Ta vérité...,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_3,Text,,"Is a scripted broadcast!",,C'est une diffusion scénarisée !,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_4,Text,,"New Jericho?",,Nouvelle-Jéricho ?,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_5,Text,,"Old Tyranny.",,Vieille Tyrannie.,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_6,Text,,"Another West speech...",,Encore un discours de West...,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_7,Text,,"Another pack of lies.",,Encore un paquet de mensonges.,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_8,Text,,"Freedom of speech?",,Liberté d'expression ?,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_9,Text,,"Thought Police!",,Police de la pensée !,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_10,Text,,"West's freedom?",,La liberté selon West ?,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_11,Text,,"You're free to choose him!",,Tu es libre de le choisir !,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_12,Text,,"One wrong word...",,Un mot de travers...,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_13,Text,,"And you're a traitor to humanity.",,Et tu es un traître à l'humanité.,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_14,Text,,"Tobias' real war...",,La guerre de Tobias...,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_15,Text,,"Is against your right to think.",,C'est contre ta liberté de penser.,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_16,Text,,"West is saving humanity...",,West sauve l'humanité...,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_17,Text,,"All of it—for himself!",,Toute entière, pour lui seul !,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_18,Text,,"No bars, no chains...",,"Sans barreaux, sans chaînes...",,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_19,Text,,"Only silent fear.",,Seulement la peur silencieuse.,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_20,Text,,"Inter-Serve: peacekeepers...",,Inter-Serve : les gardiens de la paix...,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_21,Text,,"Or West's goon squad?",,Ou l'escouade de bras‑cassés de West ?,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_22,Text,,WWIII...,,Troisième Guerre mondiale...,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_23,Text,,"Not profitable enough for Tobias.",,Pas assez rentable pour Tobias.,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_24,Text,,Grovel...,,Rampe...,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_25,Text,,"At West's throne of lies.",,Sur le podium des mensonges de West.,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_26,Text,,"Remember Shibaski?",,Tu te souviens de Shibaski ?,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_27,Text,,"Funny how your savior...",,Drôle comme ton sauveur...,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_28,Text,,"Never lets you speak.",,Jamais te laisser parler.,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_29,Text,,"West loves the camera...",,West adore les caméra...,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_30,Text,,"But hides from real debate.",,Mais se cache du vrai débat.,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_31,Text,,Inter-Serve?,,Inter-Serve ?,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_32,Text,,"Or Inquisition?",,Ou l'Inquisition ?,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_33,Text,,"Pandorans aren't the threat...",,Les Pandoriens ne sont pas la menace...,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_34,Text,,"Tyrants in uniforms are!",,Ce sont des tyrans en uniforme !,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_35,Text,,"West protects you...",,West te protège...,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_36,Text,,"But who protects you from him?",,Mais qui te protège de lui ?,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_37,Text,,"West sells security...",,West vend la sécurité...,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_38,Text,,"You pay the price.",,C'est toi qui paies le prix.,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_OBJECTIVE_COMMS,Text,,"INVESTIGATE COMMS ROOM",,INVESTIGUER LA SALLE DES COMMUNICATIONS,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_OBJECTIVE_INFILTRATOR,Text,,"KILL THE INFILTRATOR",,ÉLIMINER L'INFILTRÉ,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_MC_0,Text,,"<Free your mind from the shackles.>",,<Libère ton esprit de ses chaînes.>,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_MC_1,Text,,"<I shall be deceived no more.>",,<Je ne serai plus trompé.>,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_MC_2,Text,,"<The child will bring the answer.>",,<L'enfant apportera la réponse.>,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_MC_3,Text,,"<I don't want to do this!>",,<Je ne veux pas faire ça !>,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_MC_4,Text,,"<Seek transformation.>",,<Cherche la transformation.>,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_MC_5,Text,,"<The truth is in me.>",,<La vérité est en moi.>,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_MC_6,Text,,"<Stand aside, I'm possessed by an ethos.>",,"<Écartez-vous, je suis possédé par un ethos.>",,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_AFTER_MC_0,Text,,"<What have I done?>",,<Qu'ai-je fait ?>,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_AFTER_MC_1,Text,,"<Forgive me, forgive me.>",,"<Pardonne-moi, pardonne-moi.>",,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_AFTER_MC_2,Text,,"<What the frag was that?!>",,<C'était quoi ce frag ?!>,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_AFTER_MC_3,Text,,"<I… I… who am I?>",,<Je... je... qui suis‑je ?>,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_AFTER_MC_4,Text,,"<Was it all... a dream?>",,<Tout cela... n'était‑ce qu'un rêve ?>,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_AFTER_MC_5,Text,,"<What a fragging mindfrag...>",,<Quel putain de mindfrag...>,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_AFTER_MC_6,Text,,"<I feel like my head exploded and was reconstructed piece by piece.>",,"<J'ai l'impression que ma tête a explosé, puis a été reconstruite morceau par morceau.>",,,,,,
-TFTV_KEY_NJ_INTRO_MISS_HINT_MISSION_START_TITLE,Text,,,,,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_HINT_MISSION_START_DESC,Text,,"[HavenName] PA system is... malfunctioning. The security team that was sent to investigate is not responding. Get in the Comms room and find out what is going on!",,[HavenName] Le système est... en panne. L'équipe de sécurité envoyée pour enquêter ne répond plus. Rendez‑vous dans la salle des communications et découvrez ce qui se passe !,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_MC_0,Text,,"This NJ trooper is... unwell?",,Ce soldat de la Nouvelle-Jericho est... malade ?,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_MC_1,Text,,"[OperativeName], don't take any chances! If [he/she] gets in your way, shoot [him/her].",,"[OperativeName], ne prends aucun risque ! Si [he/she] se met en travers de ta route, abats‑[him/her].",,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_MC_2,Text,,"The NJ troopers seem to be coming out of it, whatever it was.",,"Les soldats de la Nouvelle-Jéricho semblent se remettre, quoi que ce fût.",,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_MC_3,Text,,"Poor sods, sucks to be used like that.",,Pauvres types... ça craint d'être utilisé comme ça.,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_INF_0,Text,,"Hey, who is that? And is that an optical camo suit?",,"Hé, c'est qui, ça ? Et c'est quoi ce costume de camouflage optique ?",,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_INF_1,Text,,"Don't let them get away! Shoot to kill!",,Ne les laissez pas s'échapper ! Tirez pour tuer !,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_INF_2,Text,,"Roger that, [OperativeName].",,"Reçu, [OperativeName].",,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PRIEST_0,"Text ",,"<[A screaming thought, reaching out] SUBMIT OR DIE>",,<[Une pensée enragée vous atteint] SOUMETS‑TOI OU MEURS>,,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_PRIEST_0,"Text ",,"Get out of my head, you freak!",,"Sors de ma tête, espèce de taré !",,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_PRIEST_1,Text,,"[OperativeName], shoot it, shoot it now!",,"[OperativeName], tire, tire maintenant !",,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_ENDING_0,Text,,"Director, we have encountered and neutralized a hostile psyonic operative.",,"Directeur, nous avons rencontré et neutralisé un psionique hostile.",,,,,,
-TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_ENDING_1,Text,,"We terminated an unarmed individual wearing an advanced optical camouflage suit.",,Nous avons éliminé un individu non armé portant un costume de camouflage optique avancé.,,,,,,
+Key,Type,Desc,English,French
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_0,Text,,"Get a night visit...","Recevoir une visite nocturne..."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_1,Text,,"From your friendly Inter-Serve!","De la part d'Inter-Serve !"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_2,Text,,"Your truth...","Ta vérité..."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_3,Text,,"Is a scripted broadcast!","C'est une diffusion scénarisée !"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_4,Text,,"New Jericho?","Nouvelle-Jéricho ?"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_5,Text,,"Old Tyranny.","Vieille Tyrannie."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_6,Text,,"Another West speech...","Encore un discours de West..."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_7,Text,,"Another pack of lies.","Encore un paquet de mensonges."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_8,Text,,"Freedom of speech?","Liberté d'expression ?"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_9,Text,,"Thought Police!","Police de la pensée !"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_10,Text,,"West’s freedom?","La liberté selon West ?"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_11,Text,,"You're free to choose him!","Tu es libre de le choisir !"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_12,Text,,"One wrong word...","Un mot de travers..."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_13,Text,,"And you're a traitor to humanity.","Et tu es un traître à l'humanité."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_14,Text,,"Tobias' real war...","La guerre de Tobias..."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_15,Text,,"Is against your right to think.","C'est contre ta liberté de penser."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_16,Text,,"West is saving humanity...","West sauve l'humanité..."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_17,Text,,"All of it—for himself!","Toute entière"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_18,Text,,"No bars, no chains...","Sans barreaux, sans chaînes..."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_19,Text,,"Only silent fear.","Seulement la peur silencieuse."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_20,Text,,"Inter-Serve: peacekeepers...","Inter-Serve : les gardiens de la paix..."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_21,Text,,"Or West's goon squad?","Ou l'escouade de bras‑cassés de West ?"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_22,Text,,WWIII...,"Troisième Guerre mondiale..."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_23,Text,,"Not profitable enough for Tobias.","Pas assez rentable pour Tobias."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_24,Text,,Grovel...,Rampe...
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_25,Text,,"At West's throne of lies.","Sur le podium des mensonges de West."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_26,Text,,"Remember Shibaski?","Tu te souviens de Shibaski ?"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_27,Text,,"Funny how your savior...","Drôle comme ton sauveur..."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_28,Text,,"Never lets you speak.","Jamais te laisser parler."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_29,Text,,"West loves the camera...","West adore les caméra..."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_30,Text,,"But hides from real debate.","Mais se cache du vrai débat."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_31,Text,,Inter-Serve?,"Inter-Serve ?"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_32,Text,,"Or Inquisition?","Ou l'Inquisition ?"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_33,Text,,"Pandorans aren’t the threat...","Les Pandoriens ne sont pas la menace..."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_34,Text,,"Tyrants in uniforms are!","Ce sont des tyrans en uniforme !"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_35,Text,,"West protects you...","West te protège..."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_36,Text,,"But who protects you from him?","Mais qui te protège de lui ?"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_37,Text,,"West sells security...","West vend la sécurité..."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PROPAGANDA_38,Text,,"You pay the price.","C'est toi qui paies le prix."
+TFTV_KEY_NJ_INTRO_MISS_OBJECTIVE_COMMS,Text,,"INVESTIGATE COMMS ROOM","INVESTIGUER LA SALLE DES COMMUNICATIONS"
+TFTV_KEY_NJ_INTRO_MISS_OBJECTIVE_INFILTRATOR,Text,,"KILL THE INFILTRATOR","ÉLIMINER L'INFILTRÉ"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_MC_0,Text,,"<Free your mind from the shackles.>","<Libère ton esprit de ses chaînes.>"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_MC_1,Text,,"<I shall be deceived no more.>","<Je ne serai plus trompé.>"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_MC_2,Text,,"<The child will bring the answer.>","<L'enfant apportera la réponse.>"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_MC_3,Text,,"<I don't want to do this!>","<Je ne veux pas faire ça !>"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_MC_4,Text,,"<Seek transformation.>","<Cherche la transformation.>"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_MC_5,Text,,"<The truth is in me.>","<La vérité est en moi.>"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_MC_6,Text,,"<Stand aside, I’m possessed by an ethos.>","<Écartez-vous, je suis possédé par un ethos.>"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_AFTER_MC_0,Text,,"<What have I done?>","<Qu'ai-je fait ?>"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_AFTER_MC_1,Text,,"<Forgive me, forgive me.>","<Pardonne-moi, pardonne-moi.>"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_AFTER_MC_2,Text,,"<What the frag was that?!>","<C'était quoi ce frag ?!>"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_AFTER_MC_3,Text,,"<I… I… who am I?>","<Je... je... qui suis‑je ?>"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_AFTER_MC_4,Text,,"<Was it all... a dream?>","<Tout cela... n'était‑ce qu'un rêve ?>"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_AFTER_MC_5,Text,,"<What a fragging mindfrag...>","<Quel putain de mindfrag...>"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_AFTER_MC_6,Text,,"<I feel like my head exploded and was reconstructed piece by piece.>","<J'ai l'impression que ma tête a explosé, puis a été reconstruite morceau par morceau.>"
+TFTV_KEY_NJ_INTRO_MISS_HINT_MISSION_START_TITLE,Text,,
+TFTV_KEY_NJ_INTRO_MISS_HINT_MISSION_START_DESC,Text,,"[HavenName] PA system is... malfunctioning. The security team that was sent to investigate is not responding. Get in the Comms room and find out what is going on!","[HavenName] Le système est... en panne. L'équipe de sécurité envoyée pour enquêter ne répond plus. Rendez‑vous dans la salle des communications et découvrez ce qui se passe !"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_MC_0,Text,,"This NJ trooper is... unwell?","Ce soldat de la Nouvelle-Jericho est... malade ?"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_MC_1,Text,,"[OperativeName], don't take any chances! If [he/she] gets in your way, shoot [him/her].","[OperativeName], ne prends aucun risque ! Si [he/she] se met en travers de ta route, abats‑[him/her]."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_MC_2,Text,,"The NJ troopers seem to be coming out of it, whatever it was.","Les soldats de la Nouvelle-Jéricho semblent se remettre, quoi que ce fût."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_MC_3,Text,,"Poor sods, sucks to be used like that.","Pauvres types... ça craint d'être utilisé comme ça."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_INF_0,Text,,"Hey, who is that? And is that an optical camo suit?","Hé, c'est qui, ça ? Et c'est quoi ce costume de camouflage optique ?"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_INF_1,Text,,"Don't let them get away! Shoot to kill!","Ne les laissez pas s'échapper ! Tirez pour tuer !"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_INF_2,Text,,"Roger that, [OperativeName].","Reçu, [OperativeName]."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PRIEST_0,"Text ",,"<[A screaming thought, reaching out] SUBMIT OR DIE>","<[Une pensée enragée vous atteint] SOUMETS‑TOI OU MEURS>"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_PRIEST_0,"Text ",,"Get out of my head, you freak!","Sors de ma tête, espèce de taré !"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_PRIEST_1,Text,,"[OperativeName], shoot it, shoot it now!","[OperativeName], tire, tire maintenant !"
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_ENDING_0,Text,,"Director, we have encountered and neutralized a hostile psyonic operative.","Directeur, nous avons rencontré et neutralisé un psionique hostile."
+TFTV_KEY_NJ_INTRO_MISS_BANTER_PHOENIX_ENDING_1,Text,,"We terminated an unarmed individual wearing an advanced optical camouflage suit.","Nous avons éliminé un individu non armé portant un costume de camouflage optique avancé."
