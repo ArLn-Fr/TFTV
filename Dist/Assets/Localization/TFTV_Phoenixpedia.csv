@@ -432,7 +432,7 @@ Postać stojąca na polu, na którym płonie ogień, odniesie obrażenia od ogni
 KEY_PHOENIXPEDIA_GUIDE_FIRE_NAME,Text,,"Fire Damage",火焰伤害,"Dégâts de feu",Feuerschaden,"Danni da fuoco","Obrażenia od ognia","Урон от огня","Daño de fuego","Obrażenia od ognia"
 KEY_PHOENIXPEDIA_GUIDE_HAVENS_DESCRIPTION,Text,,"Havens represent the only remaining human settlements in the world, outside of Phoenix Bases. Each Haven is controlled by a Leader who determines  its affiliation and attitude to all factions, including the Phoenix Project. If the attitude is below zero (Unfriendly or worse), Phoenix squads will not be allowed to recruit or trade at the haven.
 
-Havens are divided into zones that focus on a specific aspect of the Haven's development. Each zone could be a target of attack (by Pandorans or enemy factions), sabotage, or allow additional mission options. Production zones, such as Factories and Food Production zones, allow the exchange of one type of resource for another.
+Havens are divided into zones that focus on a specific aspect of the Haven’s development. Each zone could be a target of attack (by Pandorans or enemy factions), sabotage, or allow additional mission options. Production zones, such as Factories and Food Production zones, allow the exchange of one type of resource for another. 
 
 If a zone is damaged it can no longer perform its main function, and must be repaired by the Haven before it can do so. If the population of a Haven is annihilated the Haven is destroyed and removed off the map.
 
