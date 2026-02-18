@@ -218,9 +218,9 @@ Jusqu'à présent, nous pouvons conclure ce qui suit :
 1/ Les symptômes ne disparaissent jamais complètement, mais sont négligeables lorsque les sujets sont pleinement reposés, et s'aggravent progressivement lorsqu'ils se fatiguent.
 2/ Les symptômes s'intensifient si le sujet reste ou retourne dans des lieux où la Brume est présente.
 
-Nous avons nommé cette condition « Delirium », en raison des plaintes des sujets concernant des cauchemars, ou des « rêves fous », présentant des thèmes similaires de dégénérescence monstrueuse et d'étouffement.
+Nous avons nommé cette condition « Délire onirique », en raison des plaintes des sujets concernant des cauchemars, ou des « rêves fous », présentant des thèmes similaires de dégénérescence monstrueuse et d'étouffement.
 
-<color=#ec9006><b>Nos unités peuvent désormais être affectées par un statut Delirium pouvant atteindre le tier de leur Volonté</b></color>","Uns liegen Berichte über diverse Heimsuchungen vor, die Personen befallen, welche nebelverhangene Gebiete bereist oder dort gelebt haben: Müdigkeit, Energielosigkeit, geistige Trübung, Seelenqualen und mitunter Halluzinationen.
+<color=#ec9006><b>Nos unités peuvent désormais être affectées par la corruption jusqu'au tier de leurs volontés</b></color>","Uns liegen Berichte über diverse Heimsuchungen vor, die Personen befallen, welche nebelverhangene Gebiete bereist oder dort gelebt haben: Müdigkeit, Energielosigkeit, geistige Trübung, Seelenqualen und mitunter Halluzinationen.
 
 Bisher können wir Folgendes feststellen:
 
@@ -245,7 +245,7 @@ SDI6_OUTCOME,Text,,"The Oneiric Delirium grows stronger.
 
 <color=#e8bcf0><b>Our operatives can now be afflicted with a Delirium status of up to half of their Willpower</b></color>",,"Le délire onirique s'intensifie.
 
-<color=#e8bcf0><b>Nos unités peuvent désormais être affectées par un statut Delirium pouvant atteindre la moitié de leur Volonté</b></color>","Das Oneirische Delirium wird stärker.
+<color=#e8bcf0><b>Nos unités peuvent désormais être affectées par la corruption jusqu'à la moitié de leurs volontés</b></color>","Das Oneirische Delirium wird stärker.
 
 <color=#e8bcf0><b>Unsere Einheiten können nun von einem Delirium / Traum befallen werden, das bis zu die Hälfte ihrer Willenskraft ausmacht.</b></color>",,,"Сонное Безумие становится все сильнее.
 
@@ -256,7 +256,7 @@ SDI10_OUTCOME,Text,,"The Oneiric Delirium grows stronger.
 
 <color=#e8bcf0><b>Our operatives can now be afflicted with a Delirium status equal to their Willpower</b></color>",,"Le délire onirique s'intensifie.
 
-<color=#e8bcf0><b>Nos unités peuvent désormais être affectées par un statut Delirium égal à leur Volonté</b></color>","Das Oneirische Delirium wird stärker.
+<color=#e8bcf0><b>Nos unités peuvent désormais être affectées par la corruption, égal à leurs volontés</b></color>","Das Oneirische Delirium wird stärker.
 
 <color=#e8bcf0><b>Unsere Einheiten können nun von einem Delirium befallen werden, dessen Stärke ihrer Willenskraft entspricht.</b></color>",,,"Сонное Безумие становится еще сильнее.
 
