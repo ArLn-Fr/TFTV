@@ -547,7 +547,7 @@ Einen Krieg zu beenden ist leicht: Man muss nur aufgeben.
 Aber wir müssen diesen Krieg <b>richtig</b> beenden.
 Ich... ich weiß nicht, was der richtige Weg ist. Aber ich hoffe, dass du es weißt.
 Sonst war alles umsonst.",,,"Выбор, который вы должны сделать... Это важный, возможно, самый важный выбор, который когда-либо приходилось делать человеку. Закончить войну как-то легко: все, что вам нужно сделать, это сдаться. Но мы должны закончить эту войну правильным образом. Я... Я не знаю, как поступить правильно, но надеюсь, что Вы знаете. Иначе, все это было напрасно.",,
-PROG_AN2_CHOICE_0_TEXT,Text,,"Maybe later.",,,"Vielleicht später.",,,"Может быть, позже",,
+PROG_AN2_CHOICE_0_TEXT,Text,,"Maybe later.",,Peut-être plus tard.,"Vielleicht später.",,,"Может быть, позже",,
 PROG_AN4_CHOICE_1_TEXT,Text,,"Maybe later.",,"Peut-être plus tard.","Vielleicht später.",,,"Может быть, позже",,
 PROG_AN4_CHOICE_1_OUTCOME_GENERAL,Text,,"That's... disappointing. Very well, I hope you will change your mind.",,"C'est... décevant. Très bien, j'espère que vous changerez d'avis.","Das ist... enttäuschend. Nun gut. Ich hoffe, du änderst deine Meinung.",,,"Какое разочарование... Ладно, я надеюсь, что вы передумаете.",,
 PROG_LE3_WARN_TEXT_GENERAL_0,Text,,"Make no mistake: for the ancients, our ancestors were little more than curious animals. Perhaps they had laws to ensure our protection along with that of the other primates. Maybe they came from somewhere else and brought their own primordial soup with them… 
