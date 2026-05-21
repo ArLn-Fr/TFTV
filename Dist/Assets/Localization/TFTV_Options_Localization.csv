@@ -240,7 +240,7 @@ Wir wünschen dir einen schnellen Ragequit und eine rasche Rückkehr zur Vernunf
 Życzymy szybkiego rage quitu i błyskawicznego powrotu do zmysłów. ","Вас предупредили: если вы все равно решите продолжить, не стоит жаловаться на отсутствие справедливости, баланса, нечестный рандом или на зря потраченное время.
 
 Побыстрее проходите фазу гнева, включайте режим «холодная ярость» - и в бой!",,
-KEY_ShowBaseReworkHints,Text,,"TUTORIAL HINTS FOR AIRCRAFT REWORK",,,,,,,,
-KEY_ShowBaseReworkHints_DESCRIPTION,Text,,"When playing the AIRCRAFT REWORK BETA, turning this option ON will show context hints for new mechanics introduced by Part 3 of the AIRCRAFT REWORK relating to BASE ACTIVATION, PERSONNEL MANAGEMENT, INCIDENTS and AFFINITIES. ",,,,,,,,
-KEY_ShowMeleeThreatMarkers,Text,,"SHOW MELEE THREAT MARKERS",,,,,,,,
-KEY_ShowMeleeThreatMarkers_DESCRIPTION,Text,,"When hovering a move tile, highlights positions from which known melee enemies could attack the player unit on their next turn.",,,,,,,,
+KEY_ShowBaseReworkHints,Text,,"TUTORIAL HINTS FOR AIRCRAFT REWORK",,ASTUCES DE LA BÊTA (AIRCRAFT REWORK),,,,,,
+KEY_ShowBaseReworkHints_DESCRIPTION,Text,,"When playing the AIRCRAFT REWORK BETA, turning this option ON will show context hints for new mechanics introduced by Part 3 of the AIRCRAFT REWORK relating to BASE ACTIVATION, PERSONNEL MANAGEMENT, INCIDENTS and AFFINITIES. ",,"Lorsque vous jouez à la BÊTA (AIRCRAFT REWORK), activer cette option affichera des astuces concernant les nouvelles mécaniques introduites dans la partie 3, liées à l’ACTIVATION DES BASES, à la GESTION DU PERSONNEL, aux INCIDENTS et aux AFFINITÉS.",,,,,,
+KEY_ShowMeleeThreatMarkers,Text,,"SHOW MELEE THREAT MARKERS",,AFFICHER LA MENACE DE MÊLÉE,,,,,,
+KEY_ShowMeleeThreatMarkers_DESCRIPTION,Text,,"When hovering a move tile, highlights positions from which known melee enemies could attack the player unit on their next turn.",,"Lors du survol d’une case de déplacement, met en surbrillance les positions depuis lesquelles des ennemis repérés pourraient attaquer votre unité au corps à corps lors du prochain tour.",,,,,,
