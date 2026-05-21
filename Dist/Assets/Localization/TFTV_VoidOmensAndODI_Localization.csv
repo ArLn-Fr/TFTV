@@ -276,7 +276,7 @@ Jusqu'à présent, nous pouvons conclure ce qui suit :
 
 Nous avons nommé cette condition « Délire onirique », en raison des plaintes des sujets concernant des cauchemars, ou des « rêves fous », présentant des thèmes similaires de dégénérescence monstrueuse et d'étouffement.
 
-<color=#ec9006><b>Nos unités peuvent désormais être affectées par la corruption jusqu'au tier de leurs volontés</b></color>","Uns liegen Berichte über diverse Heimsuchungen vor, die Personen befallen, welche nebelverhangene Gebiete bereist oder dort gelebt haben: Müdigkeit, Energielosigkeit, geistige Trübung, Seelenqualen und mitunter Halluzinationen.
+<color=#ec9006><b>Nos unités peuvent désormais être affectées par un niveau de corruption allant jusqu'à 4.</b></color>","Uns liegen Berichte über diverse Heimsuchungen vor, die Personen befallen, welche nebelverhangene Gebiete bereist oder dort gelebt haben: Müdigkeit, Energielosigkeit, geistige Trübung, Seelenqualen und mitunter Halluzinationen.
 
 Bisher können wir Folgendes feststellen:
 
@@ -319,7 +319,7 @@ SDI6_OUTCOME,Text,,"The Oneiric Delirium grows stronger.
 
 <color=#e8bcf0><b>Our operatives can now be afflicted with a Delirium status up to 8</b></color>",,"Le délire onirique s'intensifie.
 
-<color=#e8bcf0><b>Nos unités peuvent désormais être affectées par la corruption jusqu'à la moitié de leurs volontés</b></color>","Das Oneirische Delirium wird stärker.
+<color=#e8bcf0><b>Nos unités peuvent désormais être affectées par un niveau de corruption allant jusqu'à 8.</b></color>","Das Oneirische Delirium wird stärker.
 
 <color=#e8bcf0><b>Unsere Einheiten können nun von einem Delirium / Traum befallen werden, das bis zu die Hälfte ihrer Willenskraft ausmacht.</b></color>",,"Oniryczne Delirium się nasila.
 
@@ -334,7 +334,7 @@ SDI10_OUTCOME,Text,,"The Oneiric Delirium grows stronger.
 
 <color=#e8bcf0><b>Our operatives can now be afflicted with a Delirium status up to 12</b></color>",,"Le délire onirique s'intensifie.
 
-<color=#e8bcf0><b>Nos unités peuvent désormais être affectées par la corruption, égal à leurs volontés</b></color>","Das Oneirische Delirium wird stärker.
+<color=#e8bcf0><b>Nos unités peuvent désormais être affectées par un niveau de corruption allant jusqu'à 12.</b></color>","Das Oneirische Delirium wird stärker.
 
 <color=#e8bcf0><b>Unsere Einheiten können nun von einem Delirium befallen werden, dessen Stärke ihrer Willenskraft entspricht.</b></color>",,"Oniryczne Delirium się nasila.
 
