@@ -1,4 +1,4 @@
-Key,Type,Desc,English,Chinese (Simplified),French,German,Italian,Polish,Russian,Spanish,UI_Tester
+Key,Type,Desc,English,"Chinese (Simplified)",French,German,Italian,Polish,Russian,Spanish,UI_Tester
 KEY_GEO_HINT_CUSTOMIZE_DESC,Text,,"Maybe it's time to introduce all these purple numbers and pibs!
 
 Example: Margareta has 12 Willpower and 5 Delirium. Because she has 36 Stamina, and each 10 points in Stamina reduce effects of Delirium by 1, effect of Delirium on Margareta's Willpower is reduced by 3. Therefore she has 12-(5-3)=10 Willpower available.
@@ -7,11 +7,11 @@ Example: Margareta has 12 Willpower and 5 Delirium. Because she has 36 Stamina, 
 2) This shows the Delirium character has over the total Delirium character can have, depending on progress of Oneiric Delirium. At first, character may not have Delirium in excess of 4. By midgame this is increased to 8, and by late game to 12. <b>Pay attention to Oneiric Delirium events to learn when the cap is changed</b>.
 3) Stamina is reducing effects of Delirium on Willpower: each <color=#A020F0><b> -</b></color> signifies that effect is reduced by 1. ",,"Peut-être qu'il est temps d'expliquer tous ces chiffres violets et les tirets !
 
-Exemple : Margareta a 12 Points de Volonté et 5 Points de Delirium. Comme elle a 36 points d'Endurance, et que chaque 10 points d'Endurance, les effets du Delirium sont réduit de 1, l'effet du Delirium sur la Volonté de Margareta est réduit de 3. Elle a donc 12-(5-3)=10 Volontés disponibles.
+Exemple : Margareta a 12 points de volonté et 5 points de corruption. Comme elle a 36 points d'endurance, et que chaque 10 points d'endurance, les effets de la corruption sont réduit de 1, l'effet de la corruption sur la volonté de Margareta est réduit de 3. Elle a donc 12-(5-3)=10 points de volonté disponibles.
 
-1) C'est la volonté réelle du personnage. Le chiffre <color=#A020F0>(en violet)</color> signifie que la Volonté est réduite par le Delirium.
-2) Cela montre que le Delirium du personnage est supérieur au Delirium total qu'il peut avoir, en fonction de la progression du Delirium. Au début, le personnage ne peut pas avoir un Delirium supérieur à un tiers de sa Volonté. En milieu de partie, cette limite passe à la moitié, et en fin de partie, il n'y a plus de limite. <b>Faites attention aux événements lié au Delirium pour savoir quand le plafond est modifié.</b>
-3) L'endurance réduit les effets du Delirium sur la Volonté : chaque <color=#A020F0><b> -</b></color> signifie que cet effet est réduit de 1.","Zeit, die violetten Zahlen und Symbole zu entwirren.
+1) C'est la volonté réelle du personnage. Le chiffre <color=#A020F0>(en violet)</color> signifie que la volonté est réduite par la corruption.
+2) Cela montre que la corruption du personnage est supérieure à la corruption totale qu'il peut avoir, en fonction de la progression du délire onirique. Au début, le personnage ne peut pas être corrompu au-delà d'un tiers de sa volonté. En milieu de partie, cette limite passe à la moitié, et en fin de partie, il n'y a plus de limite. <b>Faites attention aux événements lié au délire onirique pour savoir quand le plafond est modifié.</b>
+3) L'endurance réduit les effets de la corruption sur la volonté : chaque <color=#A020F0><b>-</b></color> signifie que cet effet est réduit de 1.","Zeit, die violetten Zahlen und Symbole zu entwirren.
 
 Beispiel: Margareta besitzt 12 Willenskraft und 5 Delirium. Da sie über 36 Ausdauer verfügt und jeweils 10 Punkte Ausdauer die Auswirkungen des Deliriums um 1 reduzieren, wird der Effekt des Deliriums auf ihre Willenskraft um 3 gesenkt. Somit stehen ihr 12 – (5 – 3) = 10 Willenskraft zur Verfügung.
 
@@ -38,7 +38,7 @@ Ejemplo: Margareta tiene 12 de Fuerza de Voluntad y 5 Delirio. Porque ella tiene
 1) La Fuerza de Voluntad del personaje. Número en <color=#A020F0>() morado</color> significa que es reducido por el Delirio.
 2) Esto muestra el Delirio que tiene el personaje en contraste con el máximo que puede tener, dependiendo del progreso del Delirio Onírico. Primero, el Delirio no superará un tercio de la Fuerza de Voluntad. A mediados de la partida sube hasta la mitad, y en la recta final no hay límite. <b>Presta atención a los eventos de Delirio Onírico para saber cuando cambia el límite</b>.
 3) El Aguante mitiga los efectos del Delirio: cada <color=#A020F0><b> -</b></color> significa que el efecto se reduce en 1.",
-KEY_GEO_HINT_CUSTOMIZE_TITLE,Text,,DELIRIUM,,DELIRIUM,DELIRIUM,,DELIRIUM,СОННОЕ БЕЗУМИЕ,DELIRIO,
+KEY_GEO_HINT_CUSTOMIZE_TITLE,Text,,DELIRIUM,,CORRUPTION,DELIRIUM,,DELIRIUM,"СОННОЕ БЕЗУМИЕ",DELIRIO,
 KEY_GEO_HINT_PANDORAN_BASE_DIPLOMACY_EFFECTS_DESCRIPTION,Text,,"In TFTV, Factions will <b>not</b> react negatively to revealed Pandoran Colonies if you fail to destroy them. However, you will suffer a small penalty with the leaders of the nearby havens.
 
 Each Pandoran colony contributes to Pandoran evolution: the more active Pandoran colonies there are, the faster the enemy will field more advanced units and the faster the Oneiric Delirium will grow. 
@@ -46,7 +46,7 @@ Each Pandoran colony contributes to Pandoran evolution: the more active Pandoran
 In addition, destroying a more advanced Pandoran colony (a Lair or a Citadel) removes the earliest <b>Void Omen</b> currently in play. (On Rookie difficulty, destroying Nests also removes Void Omens). 
 ",,"Dans TFTV, les factions ne réagiront <b>pas négativement</b> aux colonies pandoriennes révélées si vous ne parvenez pas à les détruire. Cependant, vous subirez une petite pénalité auprès des dirigeants des refuges proches.
 
-Chaque colonie pandorienne contribue à l'évolution des Pandoriens : plus il y a de colonies pandoriennes actives, plus vite l'ennemi déploie des unités plus avancées et plus vite le Delirium se développe.
+Chaque colonie pandorienne contribue à l'évolution des Pandoriens : plus il y a de colonies pandoriennes actives, plus vite l'ennemi déploie des unités plus avancées et plus vite le délire onirique se développe.
 
 En outre, la destruction d'une colonie pandorienne avancée (une tanière ou une citadelle) supprime la plus ancienne « Influence du Néant » actuellement en jeu. (En difficulté « Bleu », la destruction des Nids pandoriens supprime également les Influences du Néant).
 ","In TFTV reagieren Fraktionen <b>nicht</b> negativ darauf, wenn entdeckte pandoranische Kolonien nicht zerstört werden. Allerdings erleidest du eine geringe diplomatische Einbuße bei den Anführern nahegelegener Zufluchten.
@@ -99,7 +99,7 @@ Statki mają modułową konstrukcję i będziesz chciał wykorzystywać część
 Los módulos de pasajeros cuestan la mitad de recursos y tiempo que construir una Mantícora en Vanilla. El coste de todas las aeronaves del juego ha sido, reducido esa cantidad. Por eso, un Mantícora ahora cuesta solo la mitad de recursos y tarda el doble en construirse.
 
 La aeronave tiene un diseño modular, y querrás usar parte de él para comunicaciones (y comercio), y otros para exploración (por el riesgo de emboscadas) y transportar operativos a las misiones tácticas.",
-KEY_GEO_HINT_MORE_AIRCRAFT_TITLE,Text,,AIRCRAFT AND PASSENGER MODULES,,APPAREILS ET MODULES PASSAGERS,FLUGGERÄTE- UND TRUPPMODULE,,STATKI POWIETRZNE I MODUŁY PASAŻERSKIE,САМОЛЕТЫ И ПАССАЖИРСКИЕ МОДУЛИ,AERONAVES Y MÓDULOS DE PASAJEROS,
+KEY_GEO_HINT_MORE_AIRCRAFT_TITLE,Text,,"AIRCRAFT AND PASSENGER MODULES",,"APPAREILS ET MODULES PASSAGERS","FLUGGERÄTE- UND TRUPPMODULE",,"STATKI POWIETRZNE I MODUŁY PASAŻERSKIE","САМОЛЕТЫ И ПАССАЖИРСКИЕ МОДУЛИ","AERONAVES Y MÓDULOS DE PASAJEROS",
 KEY_DLC3_TUT_SUPPLY_DESCRIPTION,Text,,"A Pandoran flyer has separated itself from the Festering Skies. It may come upon a haven and attack it. If the haven is not yet revealed, it will send an SOS disclosing its postion. 
 
 Should the stray Pandoran flyer return to the swarm, the haven will be targeted by the Behemoth. Once a haven is targeted for attack, nothing can be done to prevent it: once the Behemoth reaches the haven, it will damage all its facilities and harvest about half of its population. 
@@ -125,7 +125,7 @@ Niszcz lotników Pandora, aby chronić przystanie, zdobywać nagrody od frakcji 
 Si el Pandora volante vuelve al enjambre, el refugio podrá ser atacado por el Behemoth. Cuando el refugio sea avistado por el Behemoth, no se podrá prevenir el ataque: cuando el Behemoth alcance el refugio, dañará todas sus instalaciones y consumirá casi la mitad de su población.
 
 Destruye a los Pandoran volantes para proteger los refugios, conseguir recompensas de las facciones y forzar al Behemoth a sumergirse.",
-KEY_DLC3_TUT_SUPPLY_NAME,Text,,PANDORAN FLYER,,PANDORIEN VOLANT,PANDORANISCHES FLUGWESEN,,PANDORAŃSKI LOTNIK,ПАНДОРАНСКИЙ ЛЕТУН,PANDORA VOLANTE,
+KEY_DLC3_TUT_SUPPLY_NAME,Text,,"PANDORAN FLYER",,"PANDORIEN VOLANT","PANDORANISCHES FLUGWESEN",,"PANDORAŃSKI LOTNIK","ПАНДОРАНСКИЙ ЛЕТУН","PANDORA VOLANTE",
 KEY_DLC3_TUT_BOMBARDMENT_DESCRIPTION,Text,,"A Pandoran flyer has separated itself from the Festering Skies. It may come upon a haven and attack it. If the haven is not yet revealed, it will send an SOS disclosing its postion. 
 
 Should the stray Pandoran flyer return to the swarm, the haven will be targeted by the Behemoth. Once a haven is targeted for attack, nothing can be done to prevent it: once the Behemoth reaches the haven, it will damage all its facilities and harvest about half of its population. 
@@ -151,7 +151,7 @@ Niszcz lotników Pandora, aby chronić przystanie, zdobywać nagrody od frakcji 
 Si el Pandora volante vuelve al enjambre, el refugio podrá ser atacado por el Behemoth. Cuando el refugio sea avistado por el Behemoth, no se podrá prevenir el ataque: cuando el Behemoth alcance el refugio, dañará todas sus instalaciones y consumirá casi la mitad de su población.
 
 Destruye a los Pandoran volantes para proteger los refugios, conseguir recompensas de las facciones y forzar al Behemoth a sumergirse.",
-KEY_DLC3_TUT_BOMBARDMENT_NAME,Text,,PANDORAN FLYER,,PANDORIEN VOLANT,PANDORANISCHES FLUGWESEN,,PANDORAŃSKI LOTNIK,ПАНДОРАНСКИЙ ЛЕТУН,PANDORA VOLANTE,
+KEY_DLC3_TUT_BOMBARDMENT_NAME,Text,,"PANDORAN FLYER",,"PANDORIEN VOLANT","PANDORANISCHES FLUGWESEN",,"PANDORAŃSKI LOTNIK","ПАНДОРАНСКИЙ ЛЕТУН","PANDORA VOLANTE",
 KEY_DLC3_TUT_RAID_DESCRIPTION,Text,,"A Pandoran flyer has separated itself from the Festering Skies. It may come upon a haven and attack it. If the haven is not yet revealed, it will send an SOS disclosing its postion. 
 
 Should the stray Pandoran flyer return to the swarm, the haven will be targeted by the Behemoth. Once a haven is targeted for attack, nothing can be done to prevent it: once the Behemoth reaches the haven, it will damage all its facilities and harvest about half of its population. 
@@ -177,7 +177,7 @@ Niszcz lotników Pandora, aby chronić przystanie, zdobywać nagrody od frakcji 
 Si el Pandora volante vuelve al enjambre, el refugio podrá ser atacado por el Behemoth. Cuando el refugio sea avistado por el Behemoth, no se podrá prevenir el ataque: cuando el Behemoth alcance el refugio, dañará todas sus instalaciones y consumirá casi la mitad de su población.
 
 Destruye a los Pandoran volantes para proteger los refugios, conseguir recompensas de las facciones y forzar al Behemoth a sumergirse.",
-KEY_DLC3_TUT_RAID_NAME,Text,,PANDORAN FLYER,,PANDORIEN VOLANT,PANDORANISCHES FLUGWESEN,,PANDORAŃSKI LOTNIK,ПАНДОРАНСКИЙ ЛЕТУН,PANDORA VOLANTE,
+KEY_DLC3_TUT_RAID_NAME,Text,,"PANDORAN FLYER",,"PANDORIEN VOLANT","PANDORANISCHES FLUGWESEN",,"PANDORAŃSKI LOTNIK","ПАНДОРАНСКИЙ ЛЕТУН","PANDORA VOLANTE",
 KEY_DLC3_TUT_RECON_DESCRIPTION,Text,,"A Pandoran flyer has separated itself from the Festering Skies. It may come upon a haven and attack it. If the haven is not yet revealed, it will send an SOS disclosing its postion. 
 
 Should the stray Pandoran flyer return to the swarm, the haven will be targeted by the Behemoth. Once a haven is targeted for attack, nothing can be done to prevent it: once the Behemoth reaches the haven, it will damage all its facilities and harvest about half of its population. 
@@ -203,7 +203,7 @@ Niszcz lotników Pandora, aby chronić przystanie, zdobywać nagrody od frakcji 
 Si el Pandora volante vuelve al enjambre, el refugio podrá ser atacado por el Behemoth. Cuando el refugio sea avistado por el Behemoth, no se podrá prevenir el ataque: cuando el Behemoth alcance el refugio, dañará todas sus instalaciones y consumirá casi la mitad de su población.
 
 Destruye a los Pandoran volantes para proteger los refugios, conseguir recompensas de las facciones y forzar al Behemoth a sumergirse.",
-KEY_DLC3_TUT_RECON_NAME,Text,,PANDORAN FLYER,,PANDORIEN VOLANT,PANDORANISCHES FLUGWESEN,,PANDORAŃSKI LOTNIK,ПАНДОРАНСКИЙ ЛЕТУН,PANDORA VOLANTE,
+KEY_DLC3_TUT_RECON_NAME,Text,,"PANDORAN FLYER",,"PANDORIEN VOLANT","PANDORANISCHES FLUGWESEN",,"PANDORAŃSKI LOTNIK","ПАНДОРАНСКИЙ ЛЕТУН","PANDORA VOLANTE",
 KEY_DLC3_TUT_BEHEMOTH_DISRUPTION_DESCRIPTION,Text,,"The Behemoth harvests all the biomass it encounters on its path, showing particular predilection for human havens. Any haven visited by a Pandoran flyer that successfully returns to the Festering Skies will be targeted for harvesting by the Behemoth. Once the Behemoth has collected enough biomass, it will submerge in the ocean. It will emerge again at a different point, sometimes fielding stronger flyers. 
 
 The Behemoth will submerge sooner if it is able to harvest havens or if its harvesting operations are disrupted. The Behemoth will gain Disruption Points (DP) when:
@@ -247,17 +247,17 @@ El Behemoth se sumergirá antes si es capaz de consumir refugios o si sus operac
 - un Nodo es destruido (5 DP)
 
 Una vez el límite de Interrupción se alcance, el Behemoth volverá al océano.",
-KEY_DLC3_TUT_BEHEMOTH_DISRUPTION_NAME,Text,,BEHEMOTH BEHAVIOR,,COMPORTEMENT DU BEHEMOTH,VERHALTEN DES BEHEMOTH,,ZACHOWANIE BEHEMOTA,ПОВЕДЕНИЕ БЕГЕМОТА,COMPORTAMIENTO DEL BEHEMOTH,
+KEY_DLC3_TUT_BEHEMOTH_DISRUPTION_NAME,Text,,"BEHEMOTH BEHAVIOR",,"COMPORTEMENT DU BEHEMOTH","VERHALTEN DES BEHEMOTH",,"ZACHOWANIE BEHEMOTA","ПОВЕДЕНИЕ БЕГЕМОТА","COMPORTAMIENTO DEL BEHEMOTH",
 KEY_DLC3_TUT_BEHEMOTH_DESCRIPTION,Text,,"The Behemoth will inexorably attack any haven that has been visited by a Pandoran flyer that has successfully returned to the Festering Skies. Once the Behemoth reaches the haven, it will harvest about half of its population and severely damage all of its facilities. To prevent Behemoth's attacks on havens, destroy all Pandoran flyers.",,"Le Béhémoth attaquera inexorablement tout refuge qui a été visité par un pandorien volant qui a réussi à retourner dans l'essaim. Une fois que le Béhémoth aura atteint le refuge, il récoltera environ la moitié de sa population et endommagera gravement toutes ses installations. Pour empêcher les attaques du Béhémoth sur les refuges, détruisez tous les pandoriens volants.","Der Behemoth greift unausweichlich jede Zuflucht an, die von einem pandoranischen Flugwesen besucht wurde, das erfolgreich zu den Fauligen Himmeln zurückgekehrt ist. Sobald der Behemoth die Zuflucht erreicht, erntet er etwa die Hälfte ihrer Bevölkerung und beschädigt alle Einrichtungen schwer.
 <b>Zerstöre alle pandoranischen Flugwesen, um Angriffe des Behemoths auf Zufluchten zu verhindern.</b>",,"Behemot będzie nieubłaganie atakował każdą przystań odwiedzoną przez pandorańskiego lotnika, który z powodzeniem wrócił do Festering Skies. Gdy Behemot dotrze do przystani, zbierze około połowy jej populacji i poważnie uszkodzi wszystkie obiekty. Aby zapobiec atakom Behemota na przystanie, zniszcz wszystkich pandorańskich lotników.","Бегемот будет неумолимо атаковать любое убежище, которое посетил Пандоранский летун, успешно вернувшийся в ""Гнойное Небо"". Как только Бегемот достигнет убежища, он уничтожит около половины его населения и нанесет серьезный ущерб всем его объектам. Чтобы предотвратить нападения Бегемота на убежища, уничтожайте всех Пандоранских летунов.","El Behemoth atacará inexoráblemente cualquier refugio visitado por un Pandoran flyer que haya conseguido escapar. Una vez el Behemoth alcance el refugio, consumirá casi la mitad de su población y dañará severamente todas sus instalaciones. Para evitar el ataque del Behemoth a los refugios, destruye a todos los Pandoran flyers.",
 KEY_TUTORIAL_DLC2_ANCIENT_SITE_DESCRIPTION,Text,,"Send an aircraft to set up an Exploration operation at the site. Once Exploration starts, the presence of aircraft is no longer needed.",,"Envoyez un appareil pour établir une opération d'exploration sur le site. Une fois que l'exploration a commencé, la présence de l'appareil n'est plus nécessaire.","Entsende ein Fluggerät, um vor Ort eine Erkundungsmission zu starten. Sobald das Team mit der Erkundung begonnen hat, wird das Fluggerät nicht mehr benötigt.",,"Wyślij statek powietrzny, aby rozpoczął operację Eksploracji w tym miejscu. Gdy Eksploracja się rozpocznie, obecność statku nie będzie już potrzebna.","Пошлите самолет для исследования этих Руин. Как только исследование начнется, присутствие самолета больше не потребуется.","Manda una aeronave para coordinar una operación de Exploración en el lugar. Una vez comience la Exploración, la aeronave podrá retirarse.",
-KEY_TUTORIAL_DLC2_EXCAVATION_DONE_NAME,Text,,We've completed our first ancient site Exploration!,,Nous avons terminé notre première exploration de site ancien !,Wir haben unsere erste Erkundung einer Uralten Stätte abgeschlossen!,,Ukończyliśmy pierwszą eksplorację starożytnego miejsca!,Мы завершили нашу первую разведку Руин Древних!,¡Hemos completado nuestra Exploración de nuestro primer lugar antiguo!,
+KEY_TUTORIAL_DLC2_EXCAVATION_DONE_NAME,Text,,"We've completed our first ancient site Exploration!",,"Nous avons terminé notre première exploration de site ancien !","Wir haben unsere erste Erkundung einer Uralten Stätte abgeschlossen!",,"Ukończyliśmy pierwszą eksplorację starożytnego miejsca!","Мы завершили нашу первую разведку Руин Древних!","¡Hemos completado nuestra Exploración de nuestro primer lugar antiguo!",
 KEY_TUTORIAL_DLC2_HARVESITNG_DESCRIPTION,Text,,"In TFTV, you immediately gain some amount of an exotic resource when you take control of an ancient site from the Automata. The amount of resources depends on type of resource and difficulty level, or alternatively the manual setting used in the Mod config. ",,"Dans TFTV, vous obtenez immédiatement une certaine quantité d'une ressource exotique lorsque vous prenez le contrôle d'un site ancien aux mains des Automates. Le montant des ressources dépend du type de ressource et du niveau de difficulté, ou alternativement, du réglage manuel utilisé dans la configuration du Mod.","In TFTV erhält man sofort eine bestimmte Menge einer exotischen Ressource, sobald man eine Uralte Stätte von den Automaten erobert. Die Menge der Ressource hängt von der Art der Ressource und dem Schwierigkeitsgrad ab, alternativ auch von den manuellen Einstellungen in der Mod-Konfiguration.",,"W TFTV natychmiast zdobywasz pewną ilość egzotycznego surowca, gdy przejmujesz kontrolę nad starożytnym miejscem od Automatów. Ilość zasobów zależy od rodzaju surowca i poziomu trudności albo od ręcznego ustawienia użytego w konfiguracji moda.","В TFTV вы сразу же получаете некоторое количество Экзотических Материалов, когда забираете у Роботов контроль над Руинами Древних. Количество ресурсов зависит от типа ресурса и уровня сложности, или, в качестве альтернативы, от соответствующей настройки, используемой в конфигурации мода.","En TFTV, ganarás inmediatamente una cantidad de un recurso exótico cuando tomes control de un lugar antiguo de los Autómatas. La cantidad de recursos depende del tipo y el nivel de dificultad, o del ajuste manual usado en Mod config. ",
-KEY_TUTORIAL_DLC2_HARVESITNG_NAME,Text,,ANCIENT SITE,,SITE ANCIEN,URALTE STÄTTE,,STAROŻYTNE MIEJSCE,РУИНЫ ДРЕВНИХ,LUGAR ANTIGUO,
+KEY_TUTORIAL_DLC2_HARVESITNG_NAME,Text,,"ANCIENT SITE",,"SITE ANCIEN","URALTE STÄTTE",,"STAROŻYTNE MIEJSCE","РУИНЫ ДРЕВНИХ","LUGAR ANTIGUO",
 KEY_TUTORIAL_DLC2_REFINERY_DESCRIPTIOY,Text,,"In TFTV, you immediately gain some amount of an exotic resource when you take control of an ancient site from the Automata. The amount of resources depends on type of resource and difficulty level, or alternatively the manual setting used in the Mod config. ",,"Dans TFTV, vous obtenez immédiatement une certaine quantité d'une ressource exotique lorsque vous prenez le contrôle d'un site ancien aux mains des Automates. Le montant des ressources dépend du type de ressource et du niveau de difficulté, ou alternativement, du réglage manuel utilisé dans la configuration du Mod.","In TFTV erhältst du sofort eine bestimmte Menge einer exotischen Ressource, sobald du eine Uralte Stätte von den Automaten übernimmst. Die Menge hängt von der Art der Ressource und dem Schwierigkeitsgrad ab oder alternativ von den manuellen Einstellungen in der Mod-Konfiguration.",,"W TFTV natychmiast zdobywasz pewną ilość egzotycznego surowca, gdy przejmujesz kontrolę nad starożytnym miejscem od Automatów. Ilość zasobów zależy od rodzaju surowca i poziomu trudności albo od ręcznego ustawienia użytego w konfiguracji moda.","В TFTV вы сразу же получаете некоторое количество Экзотических Материалов, когда забираете у Роботов контроль над Руинами Древних. Количество ресурсов зависит от типа ресурса и уровня сложности, или, в качестве альтернативы, от соответствующей настройки, используемой в конфигурации мода.","En TFTV, ganarás inmediatamente una cantidad de un recurso exótico cuando tomes control de un lugar antiguo de los Autómatas. La cantidad de recursos depende del tipo y el nivel de dificultad, o del ajuste manual usado en Mod config. ",
-KEY_TUTORIAL_DLC2_REFINERY_NAME,Text,,ANCIENT SITE,,SITE ANCIEN,URALTE STÄTTE,,STAROŻYTNE MIEJSCE,РУИНЫ ДРЕВНИХ,LUGAR ANTIGUO,
-KEY_TUTORIAL_DLC2_ARCHEOLOGY_NAME,Text,,We've completed our Archaeology Lab!,,Nous avons terminé notre laboratoire d'archéologie !,Unser Archäologielabor ist fertiggestellt!,,Ukończyliśmy nasze Laboratorium Archeologiczne!,Мы завершили работу над нашей археологической лабораторией!,¡Hemos completado nuestro Laboratorio Arqueológico!,
-HINT_HOSTILE_DEFENDERS_TITLE,Text,,Hostile haven defenders,,Défenseurs de refuge hostiles,Feindliche Zufluchtverteidiger,,Wrodzy obrońcy przystani,Охрана убежища против нас,Defensores del refugio hostiles,
+KEY_TUTORIAL_DLC2_REFINERY_NAME,Text,,"ANCIENT SITE",,"SITE ANCIEN","URALTE STÄTTE",,"STAROŻYTNE MIEJSCE","РУИНЫ ДРЕВНИХ","LUGAR ANTIGUO",
+KEY_TUTORIAL_DLC2_ARCHEOLOGY_NAME,Text,,"We've completed our Archaeology Lab!",,"Nous avons terminé notre laboratoire d'archéologie !","Unser Archäologielabor ist fertiggestellt!",,"Ukończyliśmy nasze Laboratorium Archeologiczne!","Мы завершили работу над нашей археологической лабораторией!","¡Hemos completado nuestro Laboratorio Arqueológico!",
+HINT_HOSTILE_DEFENDERS_TITLE,Text,,"Hostile haven defenders",,"Défenseurs de refuge hostiles","Feindliche Zufluchtverteidiger",,"Wrodzy obrońcy przystani","Охрана убежища против нас","Defensores del refugio hostiles",
 HINT_HOSTILE_DEFENDERS_TEXT,Text,,"<i>""Come to rescue us, have they? They are the ones who brought the damn critters on us in the first place! Fragging nerds…""</i>
 
 While this Void Omen is in effect, haven defenders will be hostile to you and attack your operatives on sight, but <b>killing them is not required to win the mission</b>.
@@ -295,7 +295,7 @@ Mientras este Augurio del Vacío esté activo, los defensores del refugio serán
 Gana EXP protegiendo las estructuras y civiles como siempre.
 
 Puedes saquear los cofres con armas de facción, pero solo te quedarás el equipamiento que tengas en el inventario de tus operativos o vehículos.",
-HINT_FIRE_QUENCHER_TITLE,Text,,Fire Quencher,,Extincteur,FLAMMENLÖSCHER,,Gasiciel ognia,Живой Огнетушитель,Aplacafuegos,
+HINT_FIRE_QUENCHER_TITLE,Text,,"Fire Quencher",,"Dompteur de flammes",FLAMMENLÖSCHER,,"Gasiciel ognia","Живой Огнетушитель",Aplacafuegos,
 HINT_FIRE_QUENCHER_TEXT,Text,,"<i>“There was nothing special about this one… Here comes the bisque, I thought… Boy was I wrong.”</i>
 
 Some Arthrons have evolved the ability to instantly quench the fire they come in contact with, replacing it with Mist. They are apparently doing this by spraying some biochemical compound  from their <b>heads</b>. Disabling their heads should remove both their immunity to fire and their ability to quench it.",,"<i>« Il n'avait rien de spécial, celui-là... Et voilà la bisque, que je me suis dit... Eh bien, je me trompais lourdement. »</i>
@@ -325,7 +325,7 @@ Une fois une augmentation installée, l'unité ne pourra plus retrouver ses memb
 
 Les parties du corps augmentées sont IMMUNISÉES CONTRE LES SAIGNEMENTS et RÉSISTANTES AUX DÉGÂTS VIRAUX, AU POISON ET À LA PARALYSIE. Un module cybernétique endommagé PEUT ÊTRE RÉPARÉ après la bataille au prix de Technologie et de Matériaux.
 
-De plus, chaque augmentation cybernétique réduit le Delirium maximum du personnage de 1/3, et retire ce montant de Delirium du personnage.","Du bist dabei, deine erste Einheit zu augmentieren. Eine Einheit kann auf diese Weise HÖCHSTENS 2 KÖRPERTEILE ersetzen lassen.
+De plus, chaque augmentation cybernétique réduit la corruption maximum du personnage de 1/3, et retire ce montant de corruption du personnage.","Du bist dabei, deine erste Einheit zu augmentieren. Eine Einheit kann auf diese Weise HÖCHSTENS 2 KÖRPERTEILE ersetzen lassen.
 
 Sobald eine Augmentation installiert ist, kann die Einheit nicht mehr zu seinen natürlichen Gliedmaßen zurückkehren. Allerdings können augmentierte Körperteile gegen andere kybernetische Teile ausgetauscht werden.
 
@@ -358,22 +358,22 @@ Las partes aumentadas son INMUNES AL SANGRADO y RESISTENTES AL DAÑO, VIRAL VENE
 Además, cada mejora biónica reduce el Delirio máximo que el personaje puede tener por un 1/3.
 
 Aumentar un personaje reducirá su Aguante a cero.",
-KEY_GEO_HINT_ACHERON_CAPTURE_DESCRIPTION,Text,need to change,"Despite our best efforts the finding a cure to the new corruption strain ended in failure. Apparently, the virus in all newer specimens has mutated to such a degree that it is useless for our needs. In order to be successful, we need to find one of the original specimens that escaped from the Lab.",,"Malgré tous nos efforts, la recherche d'un remède à la nouvelle souche de corruption s'est soldée par un échec. Apparemment, le virus dans tous les nouveaux spécimens a muté à un tel point qu'il est inutile pour nos besoins. Pour réussir, nous devons trouver l'un des spécimens originaux qui s'est échappé du laboratoire.","Trotz aller Bemühungen ist die Suche nach einem Heilmittel gegen den neuen Verderbnisstamm gescheitert. Offenbar ist das Virus in allen neueren Proben so weit mutiert, dass sie für unsere Zwecke unbrauchbar sind.
+KEY_GEO_HINT_ACHERON_CAPTURE_DESCRIPTION,Text,"need to change","Despite our best efforts the finding a cure to the new corruption strain ended in failure. Apparently, the virus in all newer specimens has mutated to such a degree that it is useless for our needs. In order to be successful, we need to find one of the original specimens that escaped from the Lab.",,"Malgré tous nos efforts, la recherche d'un remède à la nouvelle souche de corruption s'est soldée par un échec. Apparemment, le virus dans tous les nouveaux spécimens a muté à un tel point qu'il est inutile pour nos besoins. Pour réussir, nous devons trouver l'un des spécimens originaux qui s'est échappé du laboratoire.","Trotz aller Bemühungen ist die Suche nach einem Heilmittel gegen den neuen Verderbnisstamm gescheitert. Offenbar ist das Virus in allen neueren Proben so weit mutiert, dass sie für unsere Zwecke unbrauchbar sind.
 Um Erfolg zu haben, müssen wir eines der ursprünglichen Exemplare finden, das aus dem Labor entkommen ist.",,"Mimo naszych największych starań znalezienie lekarstwa na nowy szczep skażenia zakończyło się porażką. Najwyraźniej wirus we wszystkich nowszych okazach zmutował do tego stopnia, że nie nadaje się do naszych celów. Aby odnieść sukces, musimy znaleźć jeden z oryginalnych okazów, które uciekły z laboratorium.","Несмотря на все наши усилия, поиск лекарства от нового штамма вируса закончился неудачей. По-видимому, вирус во всех новых Образцах мутировал до такой степени, что теперь в нем не разобраться. Чтобы добиться результата, нам нужно найти один из первоначальных Образцов, сбежавших из лаборатории.","Pese a nuestros mejores esfuerzos, encontrar una cura para la nueva cepa de Corrupción fue un fracaso. Al parecer, el virus en todos los especímenes nuevos ha mutado a tal grado que resulta inútil para nuestras necesidades. Para tener éxito, necesitamos encontrar uno de los especímenes originales que escaparon del laboratorio.",
-KEY_GEO_HINT_ACHERON_CAPTURE_NAME,Text,need to change,CORRUPTION CURE RESEARCH FAILURE,,ECHEC DE LA RECHERCHE D’UN REMEDE A LA CORRUPTION,SCHEITERN DER VERDERBNISHEILUNG,,PORAŻKA BADAŃ NAD LEKARSTWEM NA SKAŻENIE,ПРОВАЛ ИССЛЕДОВАНИЯ ПО ЛЕЧЕНИЮ ЗАРАЖЕНИЯ,FRACASO EN LA INVESTIGACIÓN SOBRE LA CURA DE LA CORRUPCIÓN,
+KEY_GEO_HINT_ACHERON_CAPTURE_NAME,Text,"need to change","CORRUPTION CURE RESEARCH FAILURE",,"ECHEC DE LA RECHERCHE D'UN REMEDE A LA CORRUPTION","SCHEITERN DER VERDERBNISHEILUNG",,"PORAŻKA BADAŃ NAD LEKARSTWEM NA SKAŻENIE","ПРОВАЛ ИССЛЕДОВАНИЯ ПО ЛЕЧЕНИЮ ЗАРАЖЕНИЯ","FRACASO EN LA INVESTIGACIÓN SOBRE LA CURA DE LA CORRUPCIÓN",
 KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_DESCRIPTION,Text,,"In this Third Mist the Pandoravirus has mutated yet again. The new strain is slowly driving the survivors insane. 
 
 WP are reduced by the amount of Delirium a character has. This effect is, in turn, reduced when the character is well rested: each 10 points in Stamina reduces the effect of Delirium by 1. The maximum amount of Delirium a character can acquire depends on the Oneiric Delirium Index. 
 
 Delirium is gained by participating in missions where Mist is present (""Delirium Areas"") or suffering attacks from Pandorans with Delirium or Co-Delirium damage.
 
-Different ways of dealing or living with Delirium will become avaliable with Phoenix and faction research.",,"Dans cette troisième brume, le pandoravirus a encore muté. La nouvelle souche rend les survivants lentement fous.
+Different ways of dealing or living with Delirium will become avaliable with Phoenix and faction research.",,"Dans cette troisième Brume, le pandoravirus a encore muté. La nouvelle souche rend les survivants lentement fous.
 
-Les Points de Volonté sont réduits par la quantité de Delirium qui affecte le personnage. Cet effet est à son tour réduit lorsque le personnage est bien reposé : chaque tranche de 10 points d'endurance réduit l'effet du Delirium de 1. La quantité maximale de Delirium qu'un personnage peut acquérir dépend de l'Indice de Delirium (IDO).
+Les points de volonté sont réduits par la quantité de corruption qui affecte le personnage. Cet effet est à son tour réduit lorsque le personnage est bien reposé : chaque tranche de 10 points d'endurance réduit l'effet de la corruption de 1. La quantité maximale de corruption qu'un personnage peut acquérir dépend de l'indice de délire onirique (IDO).
 
-Le Delirium s'acquiert en participant à des missions où la brume est présente (""zones de Delirium"") ou en subissant des attaques de Pandoriens avec des dégâts de Delirium ou de Co-Delirium.
+La corruption s'acquiert en participant à des missions où la Brume est présente (« zones de corruption ») ou en subissant des attaques de Pandoriens avec des dégâts de corruption ou de Corruption mutuelle.
 
-Différentes façons de gérer ou de vivre avec le Delirium deviendront disponibles avec la recherche du projet Phoenix et des autres factions.","Im Dritten Nebel mutiert das Pandoravirus erneut. Der neue Stamm treibt die Überlebenden langsam in den Wahnsinn.
+Différentes façons de gérer ou de vivre avec la corruption deviendront disponibles avec les recherches du projet Phoenix et des autres factions.","Im Dritten Nebel mutiert das Pandoravirus erneut. Der neue Stamm treibt die Überlebenden langsam in den Wahnsinn.
 
 Die Willenspunkte (WP) werden um den aktuellen Delirium-Wert einer Einheit reduziert. Dieser Effekt wird wiederum abgeschwächt, wenn die Einheit gut ausgeruht ist: Pro <b>10 Punkte Ausdauer</b> wird der Effekt des Deliriums um <b>1 reduziert</b>.
 Die maximal mögliche Deliriummenge hängt vom Index des Oneirischen Deliriums ab.
@@ -399,8 +399,8 @@ Los Puntos de Voluntad se reducen igual a la cantidad de Delirio que tenga. Este
 El Delirio se adquiere participando en misiones donde la Niebla esté presente (""Áreas Delirantes"") o sufrir ataques de Pandorans con daño de Delirio.
 
 Descubrirás nuevas formas de lidiar o vivir con el Delirio a medida que tanto tú como las facciones investiguéis.",
-KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_NAME,Text,,ONEIRIC DELIRIUM VIRUS STRAIN,,SOUCHE VIRALE DU DELIRIUM,ONEIRISCHES DELIRIUM,,SZCZEP WIRUSA ONIRYCZNEGO DELIRIUM,ШТАММ ВИРУСА СОННОГО БЕЗУМИЯ,CEPA DEL VIRUS DE DELIRIO ONÍRICO,
-KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_OVER_DESCRIPTION,Text,NEED TO CHANGE,"After hours of research we have finally found a vaccine that will eliminate the corruption strain for good. As soldiers are being inoculated against the disease, our planes are spreading it over battlefields ensuring that the dead there pose no further threat.
+KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_NAME,Text,,"ONEIRIC DELIRIUM VIRUS STRAIN",,"SOUCHE VIRALE DU DÉLIRE ONIRIQUE","ONEIRISCHES DELIRIUM",,"SZCZEP WIRUSA ONIRYCZNEGO DELIRIUM","ШТАММ ВИРУСА СОННОГО БЕЗУМИЯ","CEPA DEL VIRUS DE DELIRIO ONÍRICO",
+KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_OVER_DESCRIPTION,Text,"NEED TO CHANGE","After hours of research we have finally found a vaccine that will eliminate the corruption strain for good. As soldiers are being inoculated against the disease, our planes are spreading it over battlefields ensuring that the dead there pose no further threat.
  
 Your soldiers can no longer become corrupted. Those that are currently corrupted still need treatment, though.",,"Après des heures de recherche, nous avons enfin trouvé un vaccin qui éliminera définitivement la souche de corruption. Tandis que nos agents sont vaccinés contre la maladie, nos appareils le répandent sur les champs de bataille en s'assurant que les morts ne constituent plus une menace.
 
@@ -414,12 +414,12 @@ Twoi żołnierze nie mogą już zostać skażeni. Ci, którzy już są skażeni,
 Ваши бойцы больше не подвержены заражению. Однако те, которые в настоящее время все еще заражены, нуждаются в лечении.","Tras horas de investigación, hemos encontrado una vacuna que eliminará la cepa de corrupción al fin. Mientras los soldados son inoculados contra la enfermedad, nuestros aviones la están esparciendo por los campos de batalla para garantizar que los muertos allí no representen una amenaza mayor.
  
 Tus soldados ya no pueden corromperse. Sin embargo, los que ya lo están aún necesitan tratamiento.",
-KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_OVER_NAME,Text,NEED TO CHANGE,CORRUPTION VACCINE,,VACCIN CONTRE LA CORRUPTION,IMPFSTOFF GEGEN VERDERBNIS,,SZCZEPIONKA NA SKAŻENIE,ВАКЦИНА ОТ СОННОГО БЕЗУМИЯ,VACUNA DE CORRUPCIÓN,
+KEY_GEO_HINT_ENEMY_SPECIAL_CORRUPTION_OVER_NAME,Text,"NEED TO CHANGE","CORRUPTION VACCINE",,"VACCIN CONTRE LA CORRUPTION","IMPFSTOFF GEGEN VERDERBNIS",,"SZCZEPIONKA NA SKAŻENIE","ВАКЦИНА ОТ СОННОГО БЕЗУМИЯ","VACUNA DE CORRUPCIÓN",
 KEY_GEO_HINT_ENEMY_SPECIAL_CURE_DESCRIPTION,Text,,"Now that you have researched a treatment for the Oneiric Delirium, you can remove this condition from your operatives, though they will acquire it again if they operate in an area covered by mist or are attacked by Pandorans with the Delirium attack. In addition, be aware that the treatment can cause SERIOUS and LONG LASTING side effects: every time you make use of it, there is a 25% chance that the operative will acquire one of the special Delirium perks, which grant a negative and a positive ability. The same operative can acquire any number of these special Delirium perks. They will lose these perks eventually as they complete missions, provided that they do not acquire new Delirium perks.
  
-In order to treat a soldier you need to pay 50 MUTAGENS for every 25% of Delirium that has affected the soldier as compared to their Willpower.",,"Maintenant que vous avez recherché un traitement pour le Delirium, vous pouvez supprimer cette affection de vos unités, bien qu'ils la contractent à nouveau s'ils opèrent dans une zone couverte de brume ou s'ils sont attaqués par des Pandoriens avec l'attaque Delirium. De plus, sachez que le traitement peut avoir des effets secondaires GRAVES et PERMANENTS : chaque fois que vous l'utilisez, il y a 25% de chances que l'unité acquière l'un des avantages spéciaux du Delirium, qui confèrent une capacité négative et une capacité positive. La même unité peut acquérir n'importe quel nombre de ces effets spéciaux du Delirium.
+In order to treat a soldier you need to pay 50 MUTAGENS for every 25% of Delirium that has affected the soldier as compared to their Willpower.",,"Maintenant que vous avez recherché un traitement pour le délire onirique, vous pouvez supprimer la corruption de vos unités, bien qu'ils la contractent à nouveau s'ils opèrent dans une zone couverte de Brume ou s'ils sont attaqués par des Pandoriens avec l'attaque de corruption. De plus, sachez que le traitement peut avoir des effets secondaires GRAVES et PERMANENTS : chaque fois que vous l'utilisez, il y a 25% de chances que l'unité acquière l'un des avantages spéciaux de corruption, qui confèrent une capacité négative et une capacité positive. La même unité peut acquérir n'importe quel nombre de ces effets spéciaux de corruption.
 
-Pour traiter une unité, vous devez utiliser 50 MUTAGENS pour chaque tranche de 25% de Delirium qui a affecté l'unité par rapport à sa volonté.","Nun, da du eine Behandlung gegen das Oneirische Delirium erforscht hast, kannst du diesen Zustand von deinen Einheiten entfernen. Allerdings werden sie das Delirium erneut entwickeln, wenn sie in von Nebel bedeckten Gebieten operieren oder von Pandoranern mit Deliriumsangriffen getroffen werden.
+Pour traiter une unité, vous devez utiliser 50 MUTAGENS pour chaque tranche de 25% de corruption qui a affecté l'unité par rapport à sa volonté.","Nun, da du eine Behandlung gegen das Oneirische Delirium erforscht hast, kannst du diesen Zustand von deinen Einheiten entfernen. Allerdings werden sie das Delirium erneut entwickeln, wenn sie in von Nebel bedeckten Gebieten operieren oder von Pandoranern mit Deliriumsangriffen getroffen werden.
 
 Beachte zudem: Diese Behandlung kann SCHWERE und LANG ANHALTENDE Nebenwirkungen verursachen.
 Jedes Mal, wenn du sie einsetzt, besteht eine 25%ige Chance, dass die betroffene Einheit eine der speziellen Deliriums-Eigenschaften entwickelt. Diese verleihen jeweils eine negative und eine positive Fähigkeit.
@@ -432,12 +432,12 @@ Aby leczyć żołnierza, musisz zapłacić 50 MUTAGENÓW za każde 25% Delirium,
 Чтобы вылечить бойца, вам нужно потратить 50 Мутагенов за каждые 25% очков Сонного Безумия от максимума. Максимум же зависит от Силой Воли.","Ahora que hemos investigado un tratamiento para el Delirio Onírico, puedes eliminar esta condición de tus operativos, aunque volverán a enfermar si operan en una zona con Niebla o son atacados por Pandoran con el ataque Delirio. Ten en cuenta que el tratamiento puede causar efectos secundarios SERIOS y de LARGA DURACIÓN: al usarse, hay un 25% de probabilidades de que el operativo uno de los beneficios especiales del Delirio, los cuales dan una habilidad positiva y negativa. El mismo operativo puede adquirir varios de estos beneficios. Los perderán eventualmente a medida que completen misiones, siempre que no consigan nuevos beneficios de Delirio.
  
 Para tratar a un soldado, deberás pagar 50 MUTÁGENOS por cada 25% de Delirio que haya afectado al soldado comparado a su Fuerza de Voluntad.",
-KEY_GEO_HINT_ENEMY_SPECIAL_CURE_NAME,Text,,ONEIRIC DELIRIUM EXPERIMENTAL TREATMENT,,TRAITEMENT EXPERIMENTAL DU DELIRIUM,EXPERIMENTELLE BEHANDLUNG DES ONEIRISCHEN DELIRIUMS,,EKSPERYMENTALNE LECZENIE ONIRYCZNEGO DELIRIUM,ЭКСПЕРИМЕНТАЛЬНОЕ ЛЕЧЕНИЕ СОННОГО БЕЗУМИЯ,TRATAMIENTO EXPERIMENTAL PARA EL DELIRIO ONÍRICO,
+KEY_GEO_HINT_ENEMY_SPECIAL_CURE_NAME,Text,,"ONEIRIC DELIRIUM EXPERIMENTAL TREATMENT",,"TRAITEMENT EXPERIMENTAL DU DÉLIRE ONIRIQUE","EXPERIMENTELLE BEHANDLUNG DES ONEIRISCHEN DELIRIUMS",,"EKSPERYMENTALNE LECZENIE ONIRYCZNEGO DELIRIUM","ЭКСПЕРИМЕНТАЛЬНОЕ ЛЕЧЕНИЕ СОННОГО БЕЗУМИЯ","TRATAMIENTO EXPERIMENTAL PARA EL DELIRIO ONÍRICO",
 KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_DESCRIPTION,Text,,"Mutoids are artificially created by aggresively mutating suitable humans using MUTAGENS. Immune to the Delirium they can learn abilities from all researched Soldier Classes, as well as some Pandoran abilities after an autopsy has been performed.
 
 While a Mutoid can learn many abilities, it can only select one Soldier ability and one Pandoran ability per level. For this additional Mutagens are required.
 
-Mutoids can only be healed at a base using MUTAGENS.",,"Les mutoïdes sont créés artificiellement par la mutation forcée d'humains compatibles à l'aide de MUTAGENS. Immunisés au Delirium, ils peuvent apprendre les capacités de toutes les classes connues, ainsi que certaines capacités pandoriennes après une autopsie.
+Mutoids can only be healed at a base using MUTAGENS.",,"Les mutoïdes sont créés artificiellement par la mutation forcée d'humains compatibles à l'aide de MUTAGENS. Immunisés contre les effets du délire onirique, ils peuvent apprendre les capacités de toutes les classes connues, ainsi que certaines capacités pandoriennes après une autopsie.
 
 Bien qu'un Mutoïde puisse apprendre de nombreuses capacités, il ne peut choisir qu'une capacité de Soldat et une capacité de Pandorien par niveau. Pour cela, des mutagènes supplémentaires sont nécessaires.
 
@@ -458,17 +458,17 @@ Mutoidzi mogą być leczeni wyłącznie w bazie za pomocą MUTAGENÓW.","Мут�
 Mientras un Mutoide pueden aprender muchas habilidades, solo puede añadir una habilidad de Soldado y una de Pandora por nivel. Se requieren más Mutágenos para ello.
 
 Los Mutoides solo se pueden curar a base de usar MUTÁGENOS.",
-KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_NAME,Text,,MUTOID SOLDIERS,,SOLDAT MUTOIDE,MUTOID-EINHEITEN,,ŻOŁNIERZE MUTOIDZI,Солдат-Мутоид,SOLDADOS MUTOIDES,
-KEY_GEOSCAPE_CLEAN_LAIR_MISSION_OBJECTIVE_TITLE,Text,NEED TO CHANGE,Obtain Corruption Sample from Lair,,Obtenir un échantillon de corruption dans une Tanière,VERDERBNISPROBE AUS BAU GEWONNEN,,Zdobądź próbkę skażenia z Legowiska,Добыть зараженный Образец в Логове,Obtén una muestra de Corrupción de la Guarida,
+KEY_GEO_HINT_ENEMY_SPECIAL_MUTOID_NAME,Text,,"MUTOID SOLDIERS",,"SOLDAT MUTOIDE",MUTOID-EINHEITEN,,"ŻOŁNIERZE MUTOIDZI",Солдат-Мутоид,"SOLDADOS MUTOIDES",
+KEY_GEOSCAPE_CLEAN_LAIR_MISSION_OBJECTIVE_TITLE,Text,"NEED TO CHANGE","Obtain Corruption Sample from Lair",,"Obtenir un échantillon de corruption dans une Tanière","VERDERBNISPROBE AUS BAU GEWONNEN",,"Zdobądź próbkę skażenia z Legowiska","Добыть зараженный Образец в Логове","Obtén una muestra de Corrupción de la Guarida",
 KEY_TAC_HINT_STATUS_CORRUPTED_DESCRIPTION,Text,,"Your soldiers have gained one point of Delirium. At the start of the game, Delirium is capped at 4. This cap will increase as the game progresses.
 
 Delirium reduces Willpower by an equal amount. The lower a soldier's Willpower becomes, the more susceptible they are to panic or mind control, and the less they can use their skills. <b>Each 10 points in Stamina negate the effects of 1 point of Delirium</b>.
 
-Delirium has other effects as well <b>that are not negated by higher Stamina</b>. ",,"Vos unités ont gagné un point de Delirium. Au début du jeu, le Delirium est plafonné à un tiers de la volonté du personnage. Ce plafond augmente au fur et à mesure que le jeu progresse.
+Delirium has other effects as well <b>that are not negated by higher Stamina</b>. ",,"Vos unités ont obtenu un point de corruption. Au début du jeu, la corruption est plafonné à un tiers de la volonté du personnage. Ce plafond augmente au fur et à mesure que le jeu progresse.
 
-Le Delirium réduit la Volonté d'un montant égal. Plus la Volonté d'une unité est faible, plus il est sensible à la panique ou au contrôle mental, et moins il peut utiliser ses compétences. <b>Chaque tranche de 10 points d'Endurance annule les effets de 1 point de Delirium</b>.
+La corruption réduit la volonté d'un montant égal. Plus la volonté d'une unité est faible, plus il est sensible à la panique ou au contrôle mental, et moins il peut utiliser ses compétences. <b>Chaque tranche de 10 points d'endurance annule les effets de 1 point de corruption</b>.
 
-Le Delirium a également d'autres effets <b>qui ne sont pas annulés par une meilleure endurance</b>.","Deine Einheiten haben einen Punkt Delirium erlitten. Zu Spielbeginn ist dies auf ein Drittel der Willenskraft (WP) begrenzt. Die Obergrenze steigt im Spielverlauf.
+La corruption a également d'autres effets <b>qui ne sont pas annulés par une meilleure endurance</b>.","Deine Einheiten haben einen Punkt Delirium erlitten. Zu Spielbeginn ist dies auf ein Drittel der Willenskraft (WP) begrenzt. Die Obergrenze steigt im Spielverlauf.
 
 Delirium reduziert die Willenskraft um denselben Betrag. Je niedriger die Willenskraft einer Einheit sinkt, desto anfälliger wird sie für Panik oder Gedankenkontrolle und desto weniger Fähigkeiten kann sie einsetzen.
 <b>Je 10 Punkte Ausdauer heben die Auswirkungen von 1 Punkt Delirium auf</b>.
@@ -484,7 +484,7 @@ Delirium ma też inne efekty, <b>których większa Wytrzymałość nie neutraliz
 El Delirio reduce la Fuerza de Voluntad en una cantidad igual. Cuanto menos Fuerza de Voluntad llegue a tener un soldado, será más vulnerable al pánico y control mental, y podrán usar menos habilidades. <b>Cada 10 puntos de Aguante mitigan un 1 punto de Delirio</b>.
 
 El Delirio tiene otros efectos los cuales <b>no son negados por un Aguante mayor</b>. ",
-KEY_TAC_HINT_STATUS_CORRUPTED_NAME,Text,,SUFFERS ONEIRIC DELIRIUM,,AFFECTÉ PAR LE DELIRIUM,LEIDEN AN ONEIRISCHEM DELIRIUM,,CIERPI NA ONIRYCZNE DELIRIUM,ЗАРАЖЕН СОННЫМ БЕЗУМИЕМ,SUFRE DELIRIO ONÍRICO,
+KEY_TAC_HINT_STATUS_CORRUPTED_NAME,Text,,"SUFFERS ONEIRIC DELIRIUM",,"SOUFFRE DE DÉLIRE ONIRIQUE","LEIDEN AN ONEIRISCHEM DELIRIUM",,"CIERPI NA ONIRYCZNE DELIRIUM","ЗАРАЖЕН СОННЫМ БЕЗУМИЕМ","SUFRE DELIRIO ONÍRICO",
 KEY_GEO_HINT_AUGMENTATION_SCREEN_DESCRIPTION,Text,,"You are about to augment your first soldier. A character can only have UP TO 2 BODY PARTS replaced this way.
 
 Once an augmentation is installed, the soldier will not be able to revert back to their natural limbs. However, augmented body parts CAN BE SWAPPED with different cybernetic parts.
@@ -499,7 +499,7 @@ Une fois une augmentation installée, l'unité ne pourra plus retrouver ses memb
 
 Les parties du corps augmentées sont IMMUNISÉES CONTRE LES SAIGNEMENTS et RÉSISTANTES AUX DÉGÂTS VIRAUX, AU POISON ET À LA PARALYSIE. Un module cybernétique endommagé PEUT ÊTRE RÉPARÉ après la bataille au prix de Technologie et de Matériaux.
 
-De plus, chaque augmentation cybernétique réduit le Delirium maximum du personnage de 1/3, et retire ce montant de Delirium du personnage.","Du bist dabei, deine erste Einheit zu augmentieren. Eine Einheit kann auf diese Weise HÖCHSTENS 2 KÖRPERTEILE ersetzen lassen.
+De plus, chaque augmentation cybernétique réduit la corruption maximum du personnage de 1/3, et retire ce montant de corruption du personnage.","Du bist dabei, deine erste Einheit zu augmentieren. Eine Einheit kann auf diese Weise HÖCHSTENS 2 KÖRPERTEILE ersetzen lassen.
 
 Sobald eine Augmentation installiert ist, kann die Einheit nicht mehr zu seinen natürlichen Gliedmaßen zurückkehren. Augmentierte Körperteile können jedoch gegen andere kybernetische Teile ausgetauscht werden.
 
@@ -532,14 +532,14 @@ Las partes mecanizadas son INMUNES AL SANGRADO y RESISTENTES AL DAÑO, VIRAL, VE
 Además, cada aumento biónico reduce el Delirio máximo que un personaje puede sufrir por un 1/3, y elimina hasta esa cantidad de Delirio de un personaje.
 
 Aumentar un personaje reducirá su Aguante a cero.",
-KEY_GEO_HINT_AUGMENTATION_SCREEN_NAME,Text,,AUGMENTING A SOLDIER,,AUGMENTATION D'UN SOLDAT,AUGMENTIERUNG EINER EINHEIT,,AUGMENTOWANIE ŻOŁNIERZA,АУГМЕНТАЦИЯ БОЙЦА,MECANIZAR UN SOLDADO,
+KEY_GEO_HINT_AUGMENTATION_SCREEN_NAME,Text,,"AUGMENTING A SOLDIER",,"AUGMENTATION D'UN SOLDAT","AUGMENTIERUNG EINER EINHEIT",,"AUGMENTOWANIE ŻOŁNIERZA","АУГМЕНТАЦИЯ БОЙЦА","MECANIZAR UN SOLDADO",
 KEY_GEO_HINT_CYBERNETICS_LAB_BUILT_DESCRIPTION,Text,,"The construction of your Cybernetics Lab is complete. You will now be able to AUGMENT SOLDIERS, replacing their natural limbs with powerful cybernetics.
 
 Each augmentation reduces the maximum Delirium a character may have by 4 and also immediately removes that much Delirium from the character.  
 
 To Augment a soldier, navigate to the PERSONNEL tab, select EDIT UNIT and then select AUGMENT.",,"La construction de votre Laboratoire Cybernétique est terminée. Vous allez désormais pouvoir AUGMENTER VOS SOLDATS en remplaçant leurs membres naturels par de puissantes prothèses cybernétiques.
 
-Chaque augmentation réduit le Delirium maximum d'un personnage de 1/3 et retire également immédiatement cette quantité de Delirium du personnage.
+Chaque augmentation réduit la corruption maximum d'un personnage de 1/3 et retire également immédiatement cette quantité de corruption du personnage.
 
 Pour augmenter une unité, allez dans l'onglet PERSONNEL, sélectionnez MODIFIER L'UNITÉ, puis sélectionnez AUGMENTER.","Der Bau deines Kybernetiklabors ist abgeschlossen. Du kannst nun EINHEITEN AUGMENTIEREN und ihre natürlichen Gliedmaßen durch leistungsfähige Kybernetik ersetzen.
 
@@ -558,7 +558,7 @@ Aby augmentować żołnierza, przejdź do zakładki PERSONEL, wybierz EDYTUJ JED
 Cada aumento reduce el máximo de Delirio que un personaje puede tener por 1/3 y también inmediatamente elimina esa cantidad de Delirio del personaje.
 
 Para mecanizar a un soldado, navega a la pestaña de PERSONAL, selecciona EDITAR UNIDAD y selecciona MECANIZAR.",
-KEY_GEO_HINT_CYBERNETICS_LAB_BUILT_NAME,Text,,AUGMENTATION NOW AVAILABLE,,AUGMENTATION DÉSORMAIS DISPONIBLE,AUGMENTIERUNG JETZT VERFÜGBAR,,AUGMENTACJE JUŻ DOSTĘPNE,ДОСТУПНЫ АУГМЕНТАЦИИ,AUMENTO MECANIZADO DISPONIBLE,
+KEY_GEO_HINT_CYBERNETICS_LAB_BUILT_NAME,Text,,"AUGMENTATION NOW AVAILABLE",,"AUGMENTATION DÉSORMAIS DISPONIBLE","AUGMENTIERUNG JETZT VERFÜGBAR",,"AUGMENTACJE JUŻ DOSTĘPNE","ДОСТУПНЫ АУГМЕНТАЦИИ","AUMENTO MECANIZADO DISPONIBLE",
 KEY_GEO_HINT_MUTATION_LAB_BUILT_DESCRIPTION,Text,,"The construction of your Mutation Lab is complete. You will now be able to MUTATE SOLDIERS, replacing their natural limbs with ones enhanced by Pandoravirus mutation.
 
 To Mutate a soldier, navigate to the PERSONNEL tab, select EDIT UNIT and then select MUTATE.
@@ -584,7 +584,7 @@ Dodatkowo, jeśli ukończono technologię pozyskiwania mutagenów, laboratorium 
 Para mutar a un soldado, navega a la pestaña de PERSONAL, selecciona EDITAR UNIDAD y selecciona MUTAR.
 
 Además, si has completado la tecnología de cosecha de mutágenos, tu laboratorio de mutaciones extraerá mutágenos automáticamente de cualquier Pandora en tus instalaciones de contención.",
-KEY_GEO_HINT_MUTATION_LAB_BUILT_NAME,Text,,MUTATION NOW AVAILABLE,,MUTATION DÉSORMAIS DISPONIBLE,MUTATION JETZT VERFÜGBAR,,MUTACJE JUŻ DOSTĘPNE,ДОСТУПНЫ МУТАЦИИ,MUTACIÓN DISPONIBLE,
+KEY_GEO_HINT_MUTATION_LAB_BUILT_NAME,Text,,"MUTATION NOW AVAILABLE",,"MUTATION DÉSORMAIS DISPONIBLE","MUTATION JETZT VERFÜGBAR",,"MUTACJE JUŻ DOSTĘPNE","ДОСТУПНЫ МУТАЦИИ","MUTACIÓN DISPONIBLE",
 KEY_GEO_HINT_MUTATION_SCREEN_DESCRIPTION,Text,,"You are about to mutate your first soldier. A character can only have UP TO 2 BODY PARTS altered this way.
 
 Each mutated body part increases damage dealt by character by 2% per each Delirium point that the character has.
@@ -593,7 +593,7 @@ Once a mutation is applied, the operative won't be able to revert back to their 
 
 The :PRIEST: PRIEST soldier class has access to UNIQUE HEAD MUTATIONS greatly enhancing their powers.",,"Vous êtes sur le point de muter votre premiere unité. Un personnage ne peut avoir que JUSQU'À 2 PARTIES DU CORPS modifiées de cette manière.
 
-Chaque partie du corps mutée augmente les dégâts infligés par le personnage de 2 % pour chaque point de Delirium qu'il possède.
+Chaque partie du corps mutée augmente les dégâts infligés par le personnage de 2 % pour chaque point de corruption qu'il possède.
 
 Une fois une mutation appliquée, l'agent ne pourra plus retrouver ses membres naturels. Cependant, les parties du corps mutées PEUVENT ÊTRE ÉCHANGÉES contre différentes variantes de mutation.
 
@@ -622,7 +622,7 @@ Cada parte del cuerpo mutada aumenta el daño hecho por el personaje por cada 2%
 Cuando la mutación se aplique, el operativo no podrá recuperar sus extremidades naturales. Sin embargo, las extremidades PUEDEN SER INTERCAMBIADAS.
 
 La clase :PRIEST: PRIEST tiene acceso a MUTACIONES CRANEALES ÚNICAS que aumentan sus poderes, sus grandes poderes.",
-KEY_GEO_HINT_MUTATION_SCREEN_NAME,Text,,MUTATING A SOLDIER,,MUTATION D'UN SOLDAT,MUTATION EINER EINHEIT,,MUTOWANIE ŻOŁNIERZA,МУТИРОВАТЬ БОЙЦА,MUTAR UN SOLDADO,
+KEY_GEO_HINT_MUTATION_SCREEN_NAME,Text,,"MUTATING A SOLDIER",,"MUTATION D'UN SOLDAT","MUTATION EINER EINHEIT",,"MUTOWANIE ŻOŁNIERZA","МУТИРОВАТЬ БОЙЦА","MUTAR UN SOLDADO",
 KEY_TUTORIAL_RESOURCES_DESCRIPTION,Text,,"On completing a mission, all gathered items and resources are added to your overall SUPPLIES. These can be accessed instantly anywhere on the GEOSCAPE, regardless of location.
 
 Soldiers get fatigued during battle, LOSING 1 STAMINA POINT PER TURN (max 10 per battle).They also lose ALL STAMINA if one of their bodyparts is disabled during the mission.
@@ -735,16 +735,16 @@ El Mercado ofrece:
 La oferta cambia cada 3 días y aumentará gradualmente.
 Puedes hacer compra en línea, sin molestarte en acercarte personalmente.
 ",
-KEY_DLC3_TUT_INFESTATION_NAME,Text,,BAZAAR - MARKETPLACE,,BAZAR - MARCHÉ,BASAR,,BAZAR - TARGOWISKO,Рынок - Супермаркет,BAZAR – MERCADO,
-KEY_HINT_BEHEMOTH_MISSION_TITLE,Text,,Attack the Behemoth,,Attaquer le Béhémoth,Greife den Behemoth an,,Zaatakuj Behemota,Атаковать Бегемота,Ataca el Behemoth,
+KEY_DLC3_TUT_INFESTATION_NAME,Text,,"BAZAAR - MARKETPLACE",,"BAZAR - MARCHÉ",BASAR,,"BAZAR - TARGOWISKO","Рынок - Супермаркет","BAZAR – MERCADO",
+KEY_HINT_BEHEMOTH_MISSION_TITLE,Text,,"Attack the Behemoth",,"Attaquer le Béhémoth","Greife den Behemoth an",,"Zaatakuj Behemota","Атаковать Бегемота","Ataca el Behemoth",
 KEY_HINT_BEHEMOTH_MISSION_DESCRIPTION,Text,,"You can now land a squad on the Behemoth to destroy it once and for all! Load a team on the Masked Manticore and click on this icon when the Behemoth emerges to trigger the mission.
-",,Vous pouvez désormais faire atterrir une escouade sur le Béhémoth pour le détruire une bonne fois pour toutes ! Chargez une équipe à bord du Manticore Masqué et cliquez sur cette icône lorsque le Béhémoth surgit pour déclencher la mission.,"Du kannst nun ein Einsatzteam auf dem Behemoth landen, um ihn ein für alle Mal zu vernichten.
+",,"Vous pouvez désormais faire atterrir une escouade sur le Béhémoth pour le détruire une bonne fois pour toutes ! Chargez une équipe à bord du Manticore Masqué et cliquez sur cette icône lorsque le Béhémoth surgit pour déclencher la mission.","Du kannst nun ein Einsatzteam auf dem Behemoth landen, um ihn ein für alle Mal zu vernichten.
 Lade ein Einsatzteam in den maskierten Manticore und klicke auf dieses Symbol, sobald der Behemoth auftaucht, um die Mission zu starten.",,"Możesz teraz wysadzić oddział na Behemocie i zniszczyć go raz na zawsze! Załaduj drużynę do Zamaskowanej Mantikory i kliknij tę ikonę, gdy Behemot się wynurzy, aby uruchomić misję.","Теперь вы можете высадить отряд прямо на Бегемота, чтобы уничтожить его раз и навсегда! Когда Бегемот появится, загрузите отряд в Замаскированную Мантикору и нажмите сюда, чтобы начать миссию.","¡Podemos desplegar un escuadrón para destruirlo de una vez por todas! Móntalos en la Mantícora Enmascarada y clica en este icono cuando aparezca el Behemoth para comenzar la misión.
 ",
-KEY_HINT_BEHEMOTH_DEPLOY_TITLE,Text,,Deploying on the Behemoth,,Déploiement sur le Béhémoth,Einsatz auf dem Behemoth,,Desant na Behemota,Высадка на Бегемота,Desplegando en el Behemoth,
-KEY_HINT_BEHEMOTH_DEPLOY_DESCRIPTION,Text,,"Your squad will have to separate into 2 teams to complete the objective. Because of the high winds it will be very difficult, if not impossible for the 2 teams to rendezvous, so you should assume that each will have to act fully independently. Assign your operatives to A and B teams accordingly.",,"Votre escouade devra se séparer en 2 équipes pour remplir l'objectif. En raison des vents violents, il sera très difficile, voire impossible, pour les 2 équipes de se rejoindre ; vous devez donc partir du principe que chacune devra agir de manière totalement indépendante. Répartissez vos agents dans les équipes A et B en conséquence.","Dein Einsatzteam muss sich in zwei Teams aufteilen, um das Ziel zu erreichen. Aufgrund der extremen Winde wird es sehr schwierig – wenn nicht unmöglich – sein, dass sich beide Teams wieder zusammentreffen. Gehe davon aus, dass jedes Team vollständig eigenständig handeln muss.
+KEY_HINT_BEHEMOTH_DEPLOY_TITLE,Text,,"Deploying on the Behemoth",,"Déploiement sur le Béhémoth","Einsatz auf dem Behemoth",,"Desant na Behemota","Высадка на Бегемота","Desplegando en el Behemoth",
+KEY_HINT_BEHEMOTH_DEPLOY_DESCRIPTION,Text,,"Your squad will have to separate into 2 teams to complete the objective. Because of the high winds it will be very difficult, if not impossible for the 2 teams to rendezvous, so you should assume that each will have to act fully independently. Assign your operatives to A and B teams accordingly.",,"Votre escouade devra se séparer en 2 équipes pour remplir l'objectif. En raison des vents violents, il sera très difficile, voire impossible, pour les 2 équipes de se rejoindre. Vous devez donc partir du principe que chacune devra agir de manière totalement indépendante. Répartissez vos agents dans les équipes A et B en conséquence.","Dein Einsatzteam muss sich in zwei Teams aufteilen, um das Ziel zu erreichen. Aufgrund der extremen Winde wird es sehr schwierig – wenn nicht unmöglich – sein, dass sich beide Teams wieder zusammentreffen. Gehe davon aus, dass jedes Team vollständig eigenständig handeln muss.
 Teile deine Einheiten entsprechend den Teams A und B zu.",,"Twój oddział będzie musiał rozdzielić się na 2 zespoły, aby wykonać cel. Z powodu silnych wiatrów ponowne połączenie obu zespołów będzie bardzo trudne, jeśli w ogóle możliwe, więc należy założyć, że każdy będzie musiał działać całkowicie samodzielnie. Przydziel odpowiednio operatorów do drużyn A i B.","Для выполнения миссии вашему отряду придется разделиться на 2 группы. Из-за шторма встретиться двум командам будет очень сложно, если не невозможно, поэтому вам следует исходить из того, что каждой из них придется действовать полностью независимо. Распределите своих бойцов в группы А и В соответственно.","Tu escuadrón tendrá que dividirse en 2 equipos para completar el objetivo. Las rachas de viento sería casi imposible coordinar la cooperación, por lo que deberás asumir que ambos equipos actuarán de forma independiente. Asigna a tus operativos en A y B sabiamente.",
-KEY_HINT_BASE_MISSION_TITLE,Text,,Base defense deployment,,Déploiement en défense de base,Einsatz - Basisverteidigung,,Rozmieszczenie w obronie bazy,Организация защиты базы,Desplegar las defensas de la base,
+KEY_HINT_BASE_MISSION_TITLE,Text,,"Base defense deployment",,"Déploiement en défense de base","Einsatz - Basisverteidigung",,"Rozmieszczenie w obronie bazy","Организация защиты базы","Desplegar las defensas de la base",
 KEY_HINT_BASE_MISSION_DESCRIPTION,Text,,"You have some options when deploying for the base defense, depending on the stage of the attack and whether you have an operational Access Lift.
 
 During the initial state (more than 12 hours left on the timer) you can deploy at the Hangar or at a choke point in the Entrance to the base.
